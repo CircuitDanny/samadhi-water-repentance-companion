@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
+  <title id="title">Symbolic lotus and water-ripple motif</title>
+  <desc id="desc">A teal and gold lotus above concentric water ripples, used where no securely identified historical portrait is known.</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fbf8f0"/>
+      <stop offset="1" stop-color="#e7f0ee"/>
+    </linearGradient>
+    <linearGradient id="petal" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#b88a36"/>
+      <stop offset="1" stop-color="#e9cf8c"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="560" rx="36" fill="url(#paper)"/>
+  <circle cx="600" cy="274" r="205" fill="#ffffff" opacity=".52"/>
+  <g fill="none" stroke="#5f8580" stroke-width="8" opacity=".62">
+    <ellipse cx="600" cy="442" rx="390" ry="54"/>
+    <ellipse cx="600" cy="442" rx="292" ry="37"/>
+    <ellipse cx="600" cy="442" rx="192" ry="23"/>
+  </g>
+  <g fill="url(#petal)" stroke="#274b47" stroke-width="8" stroke-linejoin="round">
+    <path d="M600 384 C528 311 535 207 600 118 C665 207 672 311 600 384Z"/>
+    <path d="M588 392 C490 364 434 284 442 176 C544 219 604 293 588 392Z"/>
+    <path d="M612 392 C710 364 766 284 758 176 C656 219 596 293 612 392Z"/>
+    <path d="M568 400 C465 418 379 370 330 272 C440 273 535 314 568 400Z"/>
+    <path d="M632 400 C735 418 821 370 870 272 C760 273 665 314 632 400Z"/>
+  </g>
+  <path d="M365 404 C487 465 713 465 835 404" fill="#f5eedc" stroke="#274b47" stroke-width="9" stroke-linecap="round"/>
+  <circle cx="600" cy="271" r="31" fill="#274b47"/>
+  <circle cx="600" cy="271" r="13" fill="#f5eedc"/>
+  <text x="600" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="27" fill="#596764">
+    Symbolic motif - no standard historical portrait identified
+  </text>
+</svg>

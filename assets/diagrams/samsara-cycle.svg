@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="560" viewBox="0 0 1100 560" role="img" aria-labelledby="title desc">
+  <title id="title">A simplified teaching cycle of samsara</title><desc id="desc">Ignorance conditions craving and clinging, these condition intentional action, action conditions karmic results, results support continued becoming and rebirth. Wisdom and the path interrupt the cycle.</desc>
+  <defs><marker id="a" markerWidth="11" markerHeight="11" refX="9" refY="5.5" orient="auto"><path d="M0 0L11 5.5L0 11Z" fill="#2c6d68"/></marker><style>.h{font:700 29px 'Noto Sans',Arial,sans-serif;fill:#153f3c}.t{font:700 21px 'Noto Sans',Arial,sans-serif;fill:#153f3c}.s{font:17px 'Noto Sans',Arial,sans-serif;fill:#35514f}</style></defs>
+  <rect width="1100" height="560" rx="28" fill="#f7f2e7"/><text x="550" y="55" text-anchor="middle" class="h">A simplified cycle of saṃsāra</text>
+  <g fill="none" stroke="#2c6d68" stroke-width="4" marker-end="url(#a)"><path d="M320 145 H450"/><path d="M650 145 H780"/><path d="M865 205 V325"/><path d="M780 410 H650"/><path d="M450 410 H320"/><path d="M235 325 V205"/></g>
+  <g fill="#fff" stroke="#70a8a0" stroke-width="2">
+    <rect x="140" y="95" width="180" height="100" rx="20"/><rect x="450" y="95" width="200" height="100" rx="20"/><rect x="780" y="95" width="180" height="110" rx="20"/>
+    <rect x="780" y="325" width="180" height="110" rx="20"/><rect x="450" y="360" width="200" height="100" rx="20"/><rect x="140" y="325" width="180" height="110" rx="20"/>
+  </g>
+  <text x="230" y="138" text-anchor="middle" class="t">Ignorance</text><text x="230" y="168" text-anchor="middle" class="s">misreading reality</text>
+  <text x="550" y="130" text-anchor="middle" class="t">Craving and clinging</text><text x="550" y="160" text-anchor="middle" class="s">“I need this to be mine”</text>
+  <text x="870" y="135" text-anchor="middle" class="t">Intentional action</text><text x="870" y="165" text-anchor="middle" class="s">body, speech, mind</text>
+  <text x="870" y="373" text-anchor="middle" class="t">Karmic results</text><text x="870" y="403" text-anchor="middle" class="s">effects and habits</text>
+  <text x="550" y="403" text-anchor="middle" class="t">Becoming</text><text x="550" y="433" text-anchor="middle" class="s">a pattern gains momentum</text>
+  <text x="230" y="373" text-anchor="middle" class="t">Birth and death</text><text x="230" y="403" text-anchor="middle" class="s">continued rebirth</text>
+  <circle cx="550" cy="280" r="85" fill="#153f3c"/><text x="550" y="264" text-anchor="middle" fill="#fff" class="t" style="fill:#fff">Wisdom and</text><text x="550" y="294" text-anchor="middle" fill="#fff" class="t" style="fill:#fff">the path</text><text x="550" y="322" text-anchor="middle" fill="#dcefeb" class="s" style="fill:#dcefeb">interrupt the cycle</text>
+  <text x="550" y="520" text-anchor="middle" class="s">Teaching aid only. The classical form uses twelve links of dependent origination.</text>
+</svg>
+

@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this companion, please cite it as below."
+title: "Samadhi Water Repentance Companion: An Explained Companion to Scroll One"
+type: book
+authors:
+  - family-names: "Franjkovic"
+    given-names: "Daniel"
+email: "daniel.franjkovic@outlook.com.au"
+year: 2026
+url: "https://github.com/CircuitDanny/samadhi-water-repentance-companion"
+license: CC-BY-NC-SA-4.0
+

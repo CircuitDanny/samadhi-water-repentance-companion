@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="650" viewBox="0 0 1100 650" role="img" aria-labelledby="title desc">
+  <title id="title">The six realms and liberation</title><desc id="desc">Six conditioned realms surround samsara. Nirvana is shown outside the cycle as liberation, not a seventh realm.</desc>
+  <defs><style>.h{font:700 29px 'Noto Sans',Arial,sans-serif;fill:#153f3c}.t{font:700 21px 'Noto Sans',Arial,sans-serif;fill:#153f3c}.s{font:16px 'Noto Sans',Arial,sans-serif;fill:#35514f}.w{font:700 23px 'Noto Sans',Arial,sans-serif;fill:#fff}</style></defs>
+  <rect width="1100" height="650" rx="28" fill="#eef8f5"/><text x="550" y="52" text-anchor="middle" class="h">The six realms</text>
+  <circle cx="465" cy="335" r="230" fill="none" stroke="#70a8a0" stroke-width="5" stroke-dasharray="10 9"/>
+  <circle cx="465" cy="335" r="92" fill="#153f3c"/><text x="465" y="328" text-anchor="middle" class="w">Saṃsāra</text><text x="465" y="357" text-anchor="middle" class="s" style="fill:#dcefeb">conditioned rebirth</text>
+  <g fill="#fff" stroke="#70a8a0" stroke-width="2">
+    <rect x="365" y="72" width="200" height="88" rx="18"/><rect x="612" y="165" width="200" height="88" rx="18"/><rect x="612" y="417" width="200" height="88" rx="18"/>
+    <rect x="365" y="510" width="200" height="88" rx="18"/><rect x="118" y="417" width="200" height="88" rx="18"/><rect x="118" y="165" width="200" height="88" rx="18"/>
+  </g>
+  <text x="465" y="107" text-anchor="middle" class="t">Devas</text><text x="465" y="135" text-anchor="middle" class="s">pleasure, complacency</text>
+  <text x="712" y="200" text-anchor="middle" class="t">Asuras</text><text x="712" y="228" text-anchor="middle" class="s">power, envy, conflict</text>
+  <text x="712" y="452" text-anchor="middle" class="t">Humans</text><text x="712" y="480" text-anchor="middle" class="s">choice and opportunity</text>
+  <text x="465" y="545" text-anchor="middle" class="t">Animals</text><text x="465" y="573" text-anchor="middle" class="s">fear and limited freedom</text>
+  <text x="218" y="452" text-anchor="middle" class="t">Hungry ghosts</text><text x="218" y="480" text-anchor="middle" class="s">unsatisfied grasping</text>
+  <text x="218" y="200" text-anchor="middle" class="t">Hells</text><text x="218" y="228" text-anchor="middle" class="s">intense suffering</text>
+  <path d="M706 338 C800 338 824 338 872 338" stroke="#b7783e" stroke-width="5" fill="none"/><path d="M862 326 L884 338 L862 350Z" fill="#b7783e"/>
+  <rect x="870" y="270" width="185" height="140" rx="24" fill="#b7783e"/><text x="962" y="315" text-anchor="middle" class="w">Nirvāṇa</text><text x="962" y="348" text-anchor="middle" class="s" style="fill:#fff">liberation from</text><text x="962" y="374" text-anchor="middle" class="s" style="fill:#fff">the cycle, not a</text><text x="962" y="400" text-anchor="middle" class="s" style="fill:#fff">seventh realm</text>
+  <text x="550" y="630" text-anchor="middle" class="s">The realms may be understood cosmologically and also as patterns of experience.</text>
+</svg>
+

@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+*.tmp
+*.bak
+
+# Do not add copyrighted source PDFs to this repository.
+FGSHsiLaiTemple__WaterRepentance_SCROLL_*.PDF
+

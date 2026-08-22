@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="520" viewBox="0 0 1100 520" role="img" aria-labelledby="title desc">
+  <title id="title">The three obstructions</title><desc id="desc">Affliction conditions intentional action, intentional action conditions painful results, and painful results can feed further affliction. Practice can interrupt the cycle.</desc>
+  <defs><marker id="a" markerWidth="11" markerHeight="11" refX="9" refY="5.5" orient="auto"><path d="M0 0L11 5.5L0 11Z" fill="#2c6d68"/></marker><style>.h{font:700 29px 'Noto Sans',Arial,sans-serif;fill:#153f3c}.t{font:700 25px 'Noto Sans',Arial,sans-serif;fill:#fff}.s{font:18px 'Noto Sans',Arial,sans-serif;fill:#35514f}.w{font:17px 'Noto Sans',Arial,sans-serif;fill:#fff}</style></defs>
+  <rect width="1100" height="520" rx="28" fill="#f1f8f6"/>
+  <text x="550" y="55" text-anchor="middle" class="h">The three obstructions</text>
+  <g fill="none" stroke="#2c6d68" stroke-width="5" marker-end="url(#a)"><path d="M365 160 C470 95 630 95 735 160"/><path d="M820 245 C850 320 770 390 670 405"/><path d="M430 405 C330 390 250 320 280 245"/></g>
+  <circle cx="275" cy="190" r="105" fill="#a44f45"/><text x="275" y="180" text-anchor="middle" class="t">Affliction</text><text x="275" y="213" text-anchor="middle" class="w">greed, aversion,</text><text x="275" y="238" text-anchor="middle" class="w">ignorance</text>
+  <circle cx="825" cy="190" r="105" fill="#b7783e"/><text x="825" y="178" text-anchor="middle" class="t">Karma</text><text x="825" y="211" text-anchor="middle" class="w">intentional action</text><text x="825" y="236" text-anchor="middle" class="w">of body, speech, mind</text>
+  <circle cx="550" cy="405" r="105" fill="#526c8d"/><text x="550" y="395" text-anchor="middle" class="t">Result</text><text x="550" y="428" text-anchor="middle" class="w">consequence and</text><text x="550" y="453" text-anchor="middle" class="w">further conditioning</text>
+  <rect x="430" y="190" width="240" height="95" rx="20" fill="#fff" stroke="#70a8a0" stroke-width="2"/><text x="550" y="224" text-anchor="middle" class="h" font-size="23">Practice interrupts</text><text x="550" y="253" text-anchor="middle" class="s">mindfulness • restraint • repair</text><text x="550" y="277" text-anchor="middle" class="s">wisdom • supportive conditions</text>
+</svg>
+
