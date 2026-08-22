@@ -13,7 +13,7 @@ For that reason this project does not include the three PDFs, reproduce the full
 ## Method
 
 1. All 175 PDF pages across three scrolls were inspected to establish the full structure and terminology.
-2. Scroll One was analysed section by section as the main practice companion.
+2. Each scroll was analysed section by section and given its own practice companion and source-page map.
 3. The English translation determined what required explanation.
 4. Chinese characters and Mandarin pinyin were consulted only to identify compressed or unusual English labels.
 5. Sanskrit, Pāli and Vietnamese forms were added only where they help an English reader recognise a name or concept.
@@ -28,4 +28,3 @@ For that reason this project does not include the three PDFs, reproduce the full
 ## Quotations
 
 The companion paraphrases the source. Any short phrase retained for identification is quoted only to the extent needed for commentary and page reference.
-

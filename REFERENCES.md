@@ -4,8 +4,9 @@ Links were checked on 22 August 2026. The guide paraphrases its copyrighted sour
 
 ## Source liturgy
 
-- Fo Guang Shan Hsi Lai Temple. [*Liturgy of the Samādhi Water Repentance of Kindness and Compassion: Scroll One*](https://www.hsilai.org/tc/events/eBooks/FGSHsiLaiTemple__WaterRepentance_SCROLL_01.pdf). Electronic edition 3.0, 2022. Main source for the companion, page map, quotations, names and ritual structure.
-- Fo Guang Shan Hsi Lai Temple. [*Scroll Two*](https://www.hsilai.org/tc/events/eBooks/FGSHsiLaiTemple__WaterRepentance_SCROLL_02.pdf) and [*Scroll Three*](https://www.hsilai.org/tc/events/eBooks/FGSHsiLaiTemple__WaterRepentance_SCROLL_03.pdf). Consulted to understand the three-scroll structure and maintain consistent terminology.
+- Fo Guang Shan Hsi Lai Temple. [*Liturgy of the Samādhi Water Repentance of Kindness and Compassion: Scroll One*](https://www.hsilai.org/tc/events/eBooks/FGSHsiLaiTemple__WaterRepentance_SCROLL_01.pdf). Electronic edition 3.0, 2022. Main source for the Scroll One guide and page map.
+- Fo Guang Shan Hsi Lai Temple. [*Scroll Two*](https://www.hsilai.org/tc/events/eBooks/FGSHsiLaiTemple__WaterRepentance_SCROLL_02.pdf). Electronic edition 3.0, 2022. Main source for the Scroll Two guide and page map.
+- Fo Guang Shan Hsi Lai Temple. [*Scroll Three*](https://www.hsilai.org/tc/events/eBooks/FGSHsiLaiTemple__WaterRepentance_SCROLL_03.pdf). Electronic edition 3.0, 2022. Main source for the Scroll Three guide, memorial rites and final prayer.
 
 The PDFs credit Andrew Nguy and Raymond Kong as translators, editors and graphic designers. They state that reproduction requires the publisher's permission except for fair use. The original PDFs are therefore not included in this repository.
 
@@ -40,7 +41,7 @@ The PDFs credit Andrew Nguy and Raymond Kong as translators, editors and graphic
 Each image caption in `FIGURES.md` gives its direct museum or Wikimedia source and licence. Key collection records include:
 
 - The Metropolitan Museum of Art: [Avalokiteśvara](https://www.metmuseum.org/art/collection/search/39856), [Samantabhadra](https://www.metmuseum.org/art/collection/search/39634), [Mahāsthāmaprāpta](https://www.metmuseum.org/art/collection/search/36069) and [Kṣitigarbha](https://www.metmuseum.org/art/collection/search/39883).
-- Wikimedia Commons: [Śākyamuni](https://commons.wikimedia.org/wiki/File:Qing_Dynasty_Shakyamuni_Buddha.jpg), [Vairocana](https://commons.wikimedia.org/wiki/File:Longmen.Vairocana.jpg), [Amitābha](https://commons.wikimedia.org/wiki/File:Amitabha_Buddha_in_Tangka.jpg), [Maitreya](https://commons.wikimedia.org/wiki/File:Bodhisattva_Maitreya,_the_Future_Buddha_-_Google_Art_Project.jpg), [Medicine Master Buddha](https://commons.wikimedia.org/wiki/File:Buddha_of_Medicine_Bhaishajyaguru_(Yaoshi_fo)_-_Google_Art_Project.jpg), [Prabhūtaratna and Śākyamuni](https://commons.wikimedia.org/wiki/File:Sui_Gilt_Bronze_Buddha_of_Past_and_Present,_609_AD_(10433528426).jpg) and the [Seven Buddhas](https://commons.wikimedia.org/wiki/File:Tang_to_Five_Dynasties_Seven_Buddhas_(17089332696).jpg).
+- Wikimedia Commons: [Śākyamuni](https://commons.wikimedia.org/wiki/File:Qing_Dynasty_Shakyamuni_Buddha.jpg), [Vairocana](https://commons.wikimedia.org/wiki/File:Longmen.Vairocana.jpg), [Amitābha](https://commons.wikimedia.org/wiki/File:Amitabha_Buddha_in_Tangka.jpg), [Dīpaṃkara](https://commons.wikimedia.org/wiki/File:%27Dipankara_Buddha%27,_Nepal,_Norton_Simon_Museum_(cropped).JPG), [Maitreya](https://commons.wikimedia.org/wiki/File:Bodhisattva_Maitreya,_the_Future_Buddha_-_Google_Art_Project.jpg), [Medicine Master Buddha](https://commons.wikimedia.org/wiki/File:Buddha_of_Medicine_Bhaishajyaguru_(Yaoshi_fo)_-_Google_Art_Project.jpg), [Prabhūtaratna and Śākyamuni](https://commons.wikimedia.org/wiki/File:Sui_Gilt_Bronze_Buddha_of_Past_and_Present,_609_AD_(10433528426).jpg) and the [Seven Buddhas](https://commons.wikimedia.org/wiki/File:Tang_to_Five_Dynasties_Seven_Buddhas_(17089332696).jpg).
 
 ## Editorial limits
 
@@ -49,4 +50,3 @@ Each image caption in `FIGURES.md` gives its direct museum or Wikimedia source a
 - Vietnamese names are a recognition aid only. Tone and regional pronunciation should be learned from a Vietnamese speaker or temple.
 - Literal and psychological interpretations of cosmological realms are both identified as recognised approaches. The guide does not claim that all Buddhist traditions interpret them in the same way.
 - The traditional Wuda narrative is explained respectfully and distinguished from historical verification.
-

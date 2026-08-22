@@ -1,6 +1,6 @@
-# Buddhas and bodhisattvas in Scroll One
+# Buddhas and bodhisattvas in the three scrolls
 
-Pronunciations are practical English approximations. They do not reproduce every distinction in Sanskrit, Mandarin or Vietnamese.
+Most of the principal figures are introduced in Scroll One and invoked again in Scrolls Two and Three. Dīpaṃkara Buddha appears in the lamp praise that opens Scroll Three. Pronunciations are practical English approximations; they do not reproduce every distinction in Sanskrit, Mandarin or Vietnamese.
 
 ## Four titles first
 
@@ -94,6 +94,26 @@ Scroll One invokes him during the Noon Offering as “disaster-eradicating and l
 **Practice pathway:** identify the cause of harm, apply a fitting remedy and use restored strength to help others.
 
 *Artwork: Chinese mural of Medicine Master Buddha and his assembly, about 1319, Metropolitan Museum of Art. [Public domain](https://commons.wikimedia.org/wiki/File:Buddha_of_Medicine_Bhaishajyaguru_(Yaoshi_fo)_-_Google_Art_Project.jpg).*
+
+## Dīpaṃkara Buddha
+
+**Say it like:** *dee-PUNG-kah-rah BOOD-uh*
+**Name meaning:** Maker of Light
+**Recognise him:** an ancient Buddha standing or seated in monastic robes, sometimes connected with lamps
+
+![Dīpaṃkara Buddha](assets/artwork/dipankara.jpg)
+
+In a famous account, the future Śākyamuni was an ascetic named Sumedha. Seeing muddy ground before Dīpaṃkara, Sumedha spread his hair across it so the Buddha could pass. Dīpaṃkara then predicted that Sumedha would one day become Śākyamuni Buddha.
+
+Scroll Three invokes Dīpaṃkara in the opening lamp praise. The link between his name and light makes him a fitting figure for wisdom illuminating dark paths.
+
+**Why his name is invoked:** to recall long-term aspiration, humility and confidence that a vow can mature across an immense path.
+
+**Interesting fact:** the meeting between Dīpaṃkara and Sumedha became a frequent subject in Buddhist art because it represents a future Buddha receiving confirmation of his path.
+
+**Practice pathway:** make a sincere commitment now, even when its full result lies far beyond the present moment.
+
+*Artwork: Nepalese gilt image of Dīpaṃkara, about 1600-1650, Norton Simon Museum. CC0 image via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%27Dipankara_Buddha%27,_Nepal,_Norton_Simon_Museum_(cropped).JPG).*
 
 ## Maitreya
 
@@ -285,4 +305,3 @@ Some titles sound like individual people but function more naturally as invocati
 | **Pure Cool Ground Bodhisattva-Mahāsattvas** | A memorial invocation of purity and relief from the “heat” of affliction. |
 | **Dhyāna Bliss Treasury Bodhisattva-Mahāsattvas** | A personified image of the deep joy and ease associated with meditation. |
 | **Sanghārāma Bodhisattvas** | Protectors of monasteries and Buddhist practice places. |
-

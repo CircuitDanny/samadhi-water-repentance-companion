@@ -1,22 +1,18 @@
-# Samādhi Water Repentance Companion
+# Complete Samādhi Water Repentance Companion
 
-## An explained English guide to Scroll One
+An illustrated, English-first guide to all three scrolls of Fo Guang Shan Hsi Lai Temple's *Liturgy of the Samādhi Water Repentance of Kindness and Compassion*.
 
 **Prepared by Daniel Franjkovic**  
 <daniel.franjkovic@outlook.com.au>
 
 For other Buddhist terms, visit the [Fo Guang Shan International Translation Center Glossary](https://www.fgsitc.org/glossary/).
 
-Use this companion beside the [official Scroll One PDF](https://www.hsilai.org/tc/events/eBooks/FGSHsiLaiTemple__WaterRepentance_SCROLL_01.pdf).
+This independent guide explains the official English translation without reproducing it. The source PDFs remain copyrighted by Fo Guang Shan Hsi Lai Temple and are linked in the references.
 
----
-
-# Part I: Practice companion
+# Part I: Scroll One
 
 ## An explained companion to Scroll One
 
-**Prepared by Daniel Franjkovic**  
-<daniel.franjkovic@outlook.com.au>
 
 For other Buddhist terms, visit the [Fo Guang Shan International Translation Center Glossary](https://www.fgsitc.org/glossary/).
 
@@ -45,6 +41,7 @@ Source-page references use the PDF page number. The smaller printed number insid
 
 The ritual is not simply a long confession. It moves from reverence and attention to honest acknowledgement, analysis of causes, vows, wisdom and dedication.
 
+# Guide to Scroll One
 
 ## 1. Imperial Preface for Water Repentance
 
@@ -401,6 +398,7 @@ The final wish names Chan, Pure Land, precepts and the patience of equality. It 
 - precepts guide conduct;
 - equality extends patience and compassion without discrimination.
 
+# A practical way to carry the text into daily life
 
 After reading a section, use four short questions:
 
@@ -411,9 +409,639 @@ After reading a section, use four short questions:
 
 Then dedicate any benefit beyond yourself. This is the ethical movement at the heart of Scroll One.
 
----
+# Part II: Scroll Two
 
-# Part II: Core concepts
+Scroll Two turns the general framework of repentance into a detailed examination of afflictions, intentional action and ethical conduct. Its movement is practical: observe the mind, understand consequences, confess harmful patterns and make vows that replace them.
+
+This guide explains the English translation without reproducing the full liturgy. Page numbers refer to Fo Guang Shan Hsi Lai Temple's 2022 electronic edition.
+
+## Before beginning
+
+- The repeated **we** is the voice of a community. A practitioner does not need to claim an action they did not commit.
+- The lists are intentionally comprehensive. Their purpose is to make unnoticed forms of harm visible.
+- Traditional statements about karmic results express the moral cosmology of the liturgy. Karma is complex and unfolds through many conditions; the text is not offering a simple formula for judging another person's life.
+- Repeated Buddha names, prostrations and vows divide the long confession into cycles of recognition, refuge and renewed direction.
+
+# Guide to Scroll Two
+
+## 1. Flowers Presented Praise
+
+**Source page 3**
+
+### What is happening?
+
+The assembly bows and offers flowers to Mañjuśrī and Samantabhadra. Blossoms are imagined filling the golden hall and becoming golden lotuses.
+
+### Why is it done?
+
+Flowers prepare the mind through beauty, generosity and impermanence. They bloom and fade, reminding practitioners that conditions change. Their transformation into lotuses expresses the possibility that ordinary, changing life can become a path of awakening.
+
+### Beginner notes
+
+- **Mañjuśrī** represents wisdom that sees clearly.
+- **Samantabhadra** represents great vows carried into action.
+- A **lotus** grows from mud without being stained by it. It commonly symbolises awakening within the conditions of saṃsāra.
+- The **Universal Offering Bodhisattvas** are invoked as an assembly representing offerings extended without limit.
+
+## 2. Prayer of Entering Repentance
+
+**Source pages 4-8**
+
+### What is happening?
+
+The assembly formally enters the second session. It offers incense and flowers, confesses disrespect, harmful desire, anger and killing, then seeks refuge and invokes Buddhas and bodhisattvas.
+
+### Why is it done?
+
+The entry prayer gathers body, speech and mind before the detailed confession. The ornate images establish the sanctuary as a place where ordinary habits can be examined in the presence of awakened qualities.
+
+### What does it mean?
+
+The passage contrasts being bound by obstruction with the Buddha's freedom and compassion. Seeking the Buddha's support does not replace personal responsibility. It places reform within a relationship of refuge, teaching and encouragement.
+
+### Beginner notes
+
+- The **two obstructions** are usually the obstruction of afflictions and the subtler obstruction to complete knowledge.
+- **Inverted views** are ways of seeing that reverse Buddhist priorities, such as treating the impermanent as permanent or the unreliable as a lasting refuge.
+- The **thirty-two responses** evoke compassionate forms adapted to the needs of beings.
+- The **thirty-two marks** are traditional signs of a great person or Buddha.
+- An **asaṃkhyeya kalpa** is an incalculably long period used to express the vast cultivation of Buddhahood.
+
+## 3. The Four Kinds of Observation
+
+**Source pages 8-11**
+
+### What is happening?
+
+Before confessing further, the reader is asked to contemplate four subjects:
+
+| Observation | Plain meaning |
+|---|---|
+| **Causes and conditions** | Harm does not appear from nowhere. It develops through ignorance, habits, influences and choices. |
+| **Results and effects** | Intentional actions shape experience and future tendencies. Privilege and pleasure do not provide permanent protection. |
+| **One's own body** | Awakening remains possible, but afflictions conceal that capacity. |
+| **The Tathāgata's body** | The Buddha represents wisdom, compassion and freedom that are not ruled by ordinary grasping. |
+
+### Why is it done?
+
+Repentance becomes more than regret when the practitioner understands what supported the action, what it produces and what different direction is possible.
+
+### Images used in the passage
+
+- A **fish biting a hook** mistakes danger for food.
+- A **silkworm forming a cocoon** becomes trapped by what it produces.
+- A **moth entering a flame** is destroyed by unexamined attraction.
+- A person **holding a boulder while sinking** cannot escape while refusing to release the cause of sinking.
+
+> **In simple terms**
+> Look honestly at how harm begins, where it leads, what the mind could become and what awakening looks like.
+
+## 4. Afflictions That Obstruct Practice
+
+**Source pages 11-16**
+
+### What is happening?
+
+The liturgy names afflictions that obstruct almost every level of Buddhist learning, meditation and bodhisattva practice. It moves from basic access to the Triple Gem through advanced concentrations, liberations, powers, perfections, stages and vows.
+
+### Why is the list so long?
+
+It shows that an affliction is not only an unpleasant feeling. Greed, aversion and delusion can prevent a person from recognising teachers, hearing the Dharma, sustaining meditation, understanding emptiness or serving others effectively.
+
+### How to read the advanced lists
+
+The passage is a map of the path, not a demand that beginners master every numbered teaching during the service.
+
+- **Breath mindfulness** and **counting the breath** steady attention.
+- **Kindness, compassion, appreciative joy and equanimity** are the four immeasurable attitudes.
+- **Foundations of mindfulness, proper exertions, faculties, powers and means to accomplishment** belong to the traditional factors supporting awakening.
+- **Six perfections** are generosity, ethics, patience, effort, meditation and wisdom.
+- **Four means of embracing** are giving, kind speech, beneficial action and cooperation.
+- **Ten stages** describe the progressive maturation of a bodhisattva.
+
+### What the vows add
+
+The section does not end with self-criticism. It dedicates the confession towards freedom from compulsive rebirth, access to good teachers, mastery of helpful methods and the ability to teach beings without attachment.
+
+## 5. Karmic Obstacles and the Timing of Results
+
+**Source pages 17-23**
+
+### What is happening?
+
+Having addressed afflictions, the liturgy turns to karma, the intentional actions shaped by those afflictions. It answers an old question: why can a person doing good experience difficulty, while someone acting badly appears to prosper?
+
+### The text's answer
+
+It describes three times in which karmic results may mature:
+
+1. **In the present life**
+2. **In the next life**
+3. **In a later life**
+
+The point is that visible circumstances do not reveal the whole network of causes. A wholesome action is still worthwhile even when its result is not immediate.
+
+### Key ideas
+
+- **Karmic power** means the capacity of intentional action to condition later experience.
+- A **virtuous friend** or **spiritual friend** is someone who supports ethical and liberating practice.
+- **Five grave deeds**, **major precept offences** and **improper livelihoods** are named as serious obstacles because they damage beings, community and trust.
+- An **icchantika** is portrayed in some Mahāyāna texts as a person whose wholesome roots or aspiration have become extremely obstructed. The term does not need to be read as an eternal identity.
+
+> **Why this matters**
+> The section encourages persistence. Present difficulty is not proof that wholesome practice has failed, and present comfort is not proof that harmful conduct is harmless.
+
+## 6. Repentance for Killing and Harm
+
+**Source pages 23-31**
+
+### What is happening?
+
+The detailed confession begins with the three physical actions, starting with killing. It includes hunting, fishing, warfare, slaughter, captivity, habitat destruction, indirect participation, careless injury and everyday actions that may harm small creatures.
+
+### Why is the scope so wide?
+
+The precept is not limited to personally taking a human life. The text asks practitioners to notice intention, encouragement, profit, enjoyment, systems of violence and carelessness.
+
+### The kinship argument
+
+The liturgy imagines all beings as former relatives across beginningless rebirth. This is meant to widen compassion beyond the present family or species. A being who now looks unfamiliar may once have been closely connected to us.
+
+### Traditional consequences
+
+The text associates killing with fearful rebirths, illness and shortened life. Its practical direction is clear: protect life, reduce cruelty, cultivate compassion and help frightened beings feel safe.
+
+### The vow after confession
+
+The positive replacement for killing is active care. The assembly vows to teach helpful Dharma, relieve fear and make its presence a condition of peace for other beings.
+
+## 7. Repentance for Stealing
+
+**Source pages 32-38**
+
+### What is happening?
+
+The liturgy examines taking what has not been given. It includes robbery, coercion, corrupt government, misuse of religious property, unpaid loans, trespass, false measures, commercial deception, embezzlement and exploitation.
+
+### What does stealing mean here?
+
+It is broader than secretly taking an object. The central question is whether another person's resources, labour, trust or common property are being taken without free and informed consent.
+
+### Why are temple goods treated seriously?
+
+Offerings to the Buddha, Dharma and Sangha are held for communal religious purposes. Misusing them breaks both stewardship and the donors' trust.
+
+### The positive practice
+
+The section turns greed into **dānapāramitā**, the perfection of generosity. Instead of asking only, "What must I not take?", it asks, "What can I freely give for the welfare and awakening of others?"
+
+## 8. Repentance for Sexual Desire and Misconduct
+
+**Source pages 38-40**
+
+### What is happening?
+
+The liturgy examines sexual craving as a powerful form of attachment and confesses conduct that violates trust or ethical restraint.
+
+### What is the Buddhist concern?
+
+The issue is not that affection or the body is inherently evil. The concern is craving that treats another person as an object, breaks commitments, causes betrayal or overwhelms clear judgement.
+
+### Monastic and lay contexts
+
+The communal text speaks across different vows. Monastics undertake celibacy. Lay ethics commonly focus on avoiding sexual misconduct, coercion, exploitation and betrayal.
+
+### The vow after confession
+
+The imagery of luminous, transformed birth expresses freedom from compulsive desire and the wish to meet others with purity, dignity and wisdom.
+
+## 9. The Four Unwholesome Verbal Actions
+
+**Source pages 41-46**
+
+### What is happening?
+
+The assembly confesses four harmful uses of speech:
+
+| Verbal action | Plain meaning |
+|---|---|
+| **False speech** | Deliberately misleading others. |
+| **Divisive speech** | Setting people or groups against one another. |
+| **Harsh speech** | Using words to wound, humiliate or inflame hatred. |
+| **Idle or irresponsible speech** | Speech that wastes attention, distorts values or encourages heedlessness. |
+
+The source moves between these categories rather than presenting them as a modern checklist.
+
+### Why can speech be karmically powerful?
+
+Words organise relationships and communities. A sentence can preserve trust, incite violence, spread false teaching or reconcile a conflict. Speech is therefore an intentional action, not merely sound.
+
+### Claims of spiritual attainment
+
+The text treats falsely claiming meditation or awakening as especially serious. Such claims exploit faith and misrepresent the path.
+
+### The positive replacement
+
+The vows seek truthful, harmonious, beneficial and timely speech, together with the confidence and skill to teach without deception.
+
+## 10. Repentance Through the Six Sense Faculties
+
+**Source pages 47-49**
+
+### What is happening?
+
+The confession reviews how the eye, ear, nose, tongue, body and mind become caught by attractive or repulsive objects.
+
+| Faculty | Object | Common reaction |
+|---|---|---|
+| Eye | Forms and colour | Attraction, comparison, judgement |
+| Ear | Sounds | Chasing praise or resisting criticism |
+| Nose | Scents | Desire or aversion |
+| Tongue | Tastes | Craving and excess |
+| Body | Touch | Comfort-seeking and resistance |
+| Mind | Thoughts and ideas | Grasping views, memories and fantasies |
+
+### Why is mind a sense?
+
+In Buddhist analysis, thoughts and mental images are objects known by mental consciousness, just as visible forms are known by visual consciousness. Mind is not presented as a permanent soul.
+
+### The transformation
+
+The vows do not ask practitioners to destroy the senses. They ask that seeing, hearing and thinking become clear, compassionate and free from automatic grasping.
+
+![How the six senses become a practice path](assets/diagrams/six-senses.svg)
+
+## 11. Seven Buddhas Offence-Extinguishing Mantra
+
+**Source page 50**
+
+### What is happening?
+
+A short mantra marks the completion of Scroll Two's main confession.
+
+### How should a beginner approach it?
+
+Mantra syllables are preserved for recitation and are not ordinary prose to be translated word by word. Their ritual function is concentration, continuity with transmitted practice and the sealing of the confession.
+
+Use the temple text and follow the officiant's rhythm. English phonetic spellings cannot fully reproduce the source sounds.
+
+## 12. Prayer of Exiting Repentance
+
+**Source pages 51-52**
+
+### What is happening?
+
+The assembly formally leaves the second session. It acknowledges the practice completed, dedicates its merit and vows to become a support for the Buddhadharma and for living beings.
+
+### Why is an exit prayer needed?
+
+A ritual ending gathers the mind after an intense confession. It prevents the practice from stopping at remorse and directs its energy towards wisdom, service and continued cultivation.
+
+### Beginner notes
+
+- The **other shore** is liberation from the compulsive cycle of suffering.
+- **Pāramitā** means a perfection or practice carried to liberating completeness.
+- To become the **pillars and crossbeams of the Buddhadharma** means to help sustain the teaching and community.
+
+## 13. Verse of Dedication
+
+**Source page 53**
+
+### What is happening?
+
+The merit of the session is shared universally. The verse joins kindness, compassion, joy and equanimity with gratitude, ethical practice, Chan and Pure Land aspirations.
+
+### Why does Scroll Two end this way?
+
+Dedication prevents the practice from being treated as private moral self-improvement. Whatever clarity or goodness has arisen is directed towards families, communities and all beings.
+
+# Scroll Two in one view
+
+| Movement | Purpose |
+|---|---|
+| Offering and entry | Establish reverence and collected attention. |
+| Four observations | Understand causes, effects, present capacity and awakening. |
+| Affliction confession | Identify what blocks learning and practice. |
+| Karmic confession | Examine intentional action and its consequences. |
+| Body, speech and senses | Apply the teaching to ordinary conduct. |
+| Mantra, exit and dedication | Seal the practice and direct its benefit outwards. |
+
+Scroll Two's central lesson is that repentance must reach behaviour. Insight into affliction becomes credible when killing is replaced with protection, stealing with generosity, misconduct with respect, harmful speech with truthful care and sensory grasping with mindful awareness.
+
+# Part III: Scroll Three
+
+Scroll Three completes the Water Repentance. It examines damaged relationships with the Buddha, Dharma and Sangha, turns to the painful results of karma, dedicates the practice to all beings and closes with memorial and Pure Land rites.
+
+This guide explains the English translation without reproducing the full liturgy. Page numbers refer to Fo Guang Shan Hsi Lai Temple's 2022 electronic edition.
+
+## Before beginning
+
+- Scroll Three assumes the work of Scrolls One and Two. Affliction has been recognised, harmful actions confessed and positive vows established.
+- Its descriptions of hells and rebirth belong to traditional Buddhist moral cosmology and ritual imagery. Some Buddhists read the realms primarily as objective rebirth destinations, some also use them as descriptions of states of mind, and many allow both levels.
+- The aim of the severe imagery is urgency followed by transformation. The vows repeatedly turn prisons into Pure Lands, weapons into jewels and suffering into conditions for awakening.
+- The memorial altar extends the practice to deceased people and other beings through recitation, offerings and dedication of merit.
+
+# Guide to Scroll Three
+
+## 1. Lamp's Radiant Light Praise
+
+**Source page 3**
+
+### What is happening?
+
+The assembly bows and praises a lamp whose light reaches dark paths. The verse names King Yama and Dīpaṃkara Buddha.
+
+### Why is it done?
+
+Light represents awareness and wisdom. At the beginning of the final scroll, the lamp announces that even the darkest karmic condition can be seen clearly and approached through practice.
+
+### Beginner notes
+
+- **King Yama** is a traditional judge or administrator associated with the realms of the dead. He is not a creator god or an eternal ruler of damnation.
+- **Dīpaṃkara**, whose name is associated with lamp light, is a Buddha of the distant past. Traditional accounts say that he predicted a future Buddhahood for the person who would become Śākyamuni.
+- Lamps offered at an altar commonly symbolise the wish that wisdom dispel ignorance.
+
+## 2. Prayer of Entering Repentance
+
+**Source pages 4-7**
+
+### What is happening?
+
+The third session is opened through refuge, prostration and the transformation of body, speech and mind. Buddhas, bodhisattvas, sages and protective beings are invited to witness the practice.
+
+### Why does the prayer repeat the number three?
+
+The language links the third scroll with several Buddhist triads: the three karmas of body, speech and mind; the three vehicles; the three realms; the three bodies of a Buddha; and the threefold repetition of refuge and request.
+
+### Beginner notes
+
+- The **three vehicles** are paths associated with disciples, solitary buddhas and bodhisattvas. Mahāyāna texts often gather them within the ultimate aim of Buddhahood.
+- The **three bodies** describe Buddhahood as truth or reality, transcendent enjoyment and compassionate manifestation.
+- The **three realms** are the desire, form and formless realms within saṃsāra.
+- The **four immeasurables** are loving-kindness, compassion, appreciative joy and equanimity.
+
+## 3. Repairing the Relationship with the Triple Gem
+
+**Source pages 8-13**
+
+### What is happening?
+
+The assembly confesses disrespect towards Buddha images, stupas and temples; careless handling or distortion of scriptures; contempt for monastics and teachers; misuse of religious identity; and neglect of sacred places.
+
+### Why does material care matter?
+
+Buddhist statues, books and buildings are not creator gods. They are supports for memory, teaching and community. Caring for them trains gratitude and preserves access to the Dharma for others.
+
+### The three relationships
+
+| Refuge | What can be damaged | Positive repair |
+|---|---|---|
+| **Buddha** | Disrespect, destruction or reducing awakening to an object of status | Reverence for awakening and care for its images |
+| **Dharma** | Distorting, neglecting, withholding or using teachings for fame | Accurate study, preservation and sincere practice |
+| **Sangha** | Contempt, exploitation, false representation or disruption | Respect, ethical support and harmonious community |
+
+### Six points of reverent harmony
+
+The vows refer to a community living harmoniously through shared bodily conduct, speech, intention, ethical discipline, understanding and use of resources. The precise wording varies across Buddhist sources, but the purpose is stable: practise together without rivalry and misuse.
+
+> **Why this matters**
+> Refuge is a lived relationship. Respect for the Triple Gem is shown through how teachings are handled, how communities are treated and whether practice is used honestly.
+
+## 4. Remorse, Shame and Everyday Conduct
+
+**Source pages 14-19**
+
+### What is happening?
+
+The text identifies remorse and shame as two protective qualities, then confesses arrogance, intoxication, overconsumption, improper livelihood, misuse of offerings, jealousy and neglect of practice.
+
+### What do remorse and shame mean here?
+
+- **Remorse** recognises that one's own harmful action should not be repeated.
+- **Moral shame** recognises the dignity of oneself and others and refuses to encourage wrongdoing.
+
+They are not permanent self-condemnation. They are the capacity to feel an ethical boundary and change direction.
+
+### Five pungent vegetables
+
+Some East Asian monastic traditions avoid garlic, onions and related pungent plants, especially in periods of formal practice. Traditional explanations link their smell or stimulating effect with ritual purity and mental agitation. This discipline is distinct from the general lay precepts.
+
+### Improper livelihood
+
+The passage applies ethics to earning and receiving resources. It includes dealing in animals for slaughter, intoxicants, exploitation through debt and accepting religious support without living up to the responsibilities attached to it.
+
+### The positive vow
+
+The assembly vows to be kind, loyal, filial, humble, patient and careful with the senses and three karmas. Repentance is again completed by describing the conduct that should replace the fault.
+
+## 5. Resultative Obstructions and Impermanence
+
+**Source pages 20-23**
+
+### What is happening?
+
+After afflictive and karmic obstructions, the liturgy turns to **resultative obstructions**, the painful conditions in which the effects of karma mature.
+
+### Why does it speak so urgently about death?
+
+The passage stresses that youth, wealth, status and even refined meditation do not make conditioned life permanent. The next breath is not guaranteed. Practice should begin while choice and support are available.
+
+### The story of a deva
+
+The text recalls a celestial being whose signs of approaching death are reversed through repentance. The story supports the ritual claim that sincere reform and wholesome conditions can alter the direction of a life.
+
+### Subhadra and Udrakarāmaputra
+
+The example of a highly accomplished meditator later falling into an animal birth warns that concentration alone is not final liberation. Temporary mastery of a subtle state is not the same as ending ignorance and rebirth.
+
+> **In simple terms**
+> Do not confuse a comfortable condition, high status or unusual meditation experience with complete freedom.
+
+## 6. Avīci and the Hell Realms
+
+**Source pages 24-29**
+
+### What is happening?
+
+The text gives an elaborate description of Avīci and names many other hot, cold and specialised hells. The images include iron walls, fire, weapons, predatory beings and repeated injury.
+
+### What is Avīci?
+
+**Avīci** means "without interval". It is traditionally described as a hell of uninterrupted suffering produced by extremely destructive karma. It is not eternal in the sense of an unending divine sentence, but its duration is depicted as immense.
+
+### How can the imagery be understood?
+
+Recognised Buddhist readings include:
+
+- **Cosmological:** hells are possible rebirth destinations within saṃsāra.
+- **Psychological:** hatred, terror and compulsive violence can create hell-like experience in the present.
+- **Ritual and ethical:** the extreme images break complacency and turn the mind away from cruelty.
+
+These readings can overlap. The liturgy itself treats the realms as karmic realities while also using them as moral images.
+
+### The decisive movement
+
+The confession does not delight in punishment. Its vow is that Avīci become a Pure Land, instruments of torture become sources of peace and every suffering being encounter liberation.
+
+## 7. Animals, Hungry Ghosts, Spirits and Asuras
+
+**Source pages 30-36**
+
+### What is happening?
+
+After another Buddha-name litany, the text considers painful results associated with non-human realms.
+
+| Realm or being | Central condition in the passage | Practice response |
+|---|---|---|
+| **Animals** | Ignorance, fear, confinement, labour and being harmed by others | Wisdom, freedom and protection of life |
+| **Hungry ghosts** | Insatiable hunger and thirst | Generosity, contentment and the liberating "sweet dew" of Dharma |
+| **Troubled spirits** | Distortion, insecurity and harmful livelihood | Honesty, beauty of character and benefit to others |
+| **Asuras** | Conflict, jealousy and aggressive competition | Equanimity, non-deception and peace |
+
+### Contentment
+
+The section begins by contrasting desire with contentment. A person may possess little and still experience ease, or live in luxury and remain dissatisfied. Contentment does not mean refusing improvement. It means freedom from the belief that one more possession will finally make grasping secure.
+
+### Returning by vow
+
+The assembly vows not to fall helplessly into the lower realms, while allowing for compassionate return by a bodhisattva who deliberately enters difficult conditions to help beings.
+
+## 8. Residual Results Among Humans and Devas
+
+**Source pages 37-40**
+
+### What is happening?
+
+The confession lists illness, conflict, separation, poverty, disaster, fear, failed relationships and many other forms of vulnerability in human and heavenly lives.
+
+### What does "residual result" mean?
+
+It is a remaining effect or tendency after a stronger karmic result has matured. The concept explains why difficulty can continue even within a comparatively fortunate rebirth.
+
+### Why include heavenly lives?
+
+Deva existence is pleasurable but impermanent. When its supporting karma is exhausted, decline and rebirth continue. This is why the Buddhist goal is liberation, not simply heaven.
+
+### How to read the catalogue
+
+The list is a communal confession within a traditional karmic worldview. Its practice purpose is compassion and urgency, not the confident diagnosis of any particular person's misfortune.
+
+## 9. Universal Vows and Dedication
+
+**Source pages 41-43**
+
+### What is happening?
+
+The merits of repenting the three obstructions are dedicated to all beings. The assembly wishes for present safety, sufficient food and clothing, faith in the Triple Gem, rebirth in Amitābha's Pure Land and progress towards Buddhahood.
+
+### Pure Land and liberation
+
+Sukhāvatī is sought as an exceptionally supportive field for hearing the Dharma and advancing without ordinary obstacles. It is not merely a reward of celestial pleasure. Its purpose is the completion of the path for the benefit of beings.
+
+### Endless dedication
+
+The formula that dedication will continue until space, beings, karma and affliction end echoes Samantabhadra's vast vows. Because these fields are treated as immeasurable, the commitment is effectively without limit.
+
+## 10. Final Mantra and Prayer of Exiting Repentance
+
+**Source pages 43-46**
+
+### What is happening?
+
+The Seven Buddhas mantra seals the main repentance. The assembly then reviews the whole service: circumambulation, sūtra and mantra recitation, confession, prostration, Buddha-name chanting and offerings.
+
+### Why review the actions?
+
+The review gathers a long multi-session ritual into one field of merit. It also acknowledges that outward completion is not enough if the confession was insincere, so the assembly asks to repent once more.
+
+### Important references
+
+- **Infinite Life Tathāgata** is Amitāyus, the long-life aspect or name of Amitābha.
+- The **Lotus Treasury** is a vast purified cosmos associated with Mahāyāna vision.
+- The **Dragon Flower assemblies** are future teaching assemblies under Maitreya Buddha.
+- The **four kindnesses** commonly include parents, sentient beings, rulers or society, and the Triple Gem. Lists vary by source.
+
+## 11. Memorial Altar Dedication
+
+**Source pages 47-51**
+
+### What is happening?
+
+The service turns explicitly towards deceased beings. It invokes Amitābha, recites the Heart Sūtra and several dhāraṇīs, transforms food and water symbolically into boundless offerings, dedicates merit and respectfully sends off the sacred assembly.
+
+### Why Amitābha?
+
+Amitābha is invoked as the guide and receiver of the Western Pure Land. In East Asian memorial practice, his name expresses the wish that deceased beings encounter clarity, support and a favourable rebirth in Sukhāvatī.
+
+### Why the Heart Sūtra?
+
+The Heart Sūtra teaches that the five aggregates and all phenomena are empty of independent, permanent essence. In a memorial setting, this wisdom loosens fearful attachment to fixed identity while compassion continues to care for the deceased.
+
+### The four dhāraṇī functions
+
+| Recitation | Ritual purpose |
+|---|---|
+| **Rebirth in the Pure Land Dhāraṇī** | Supports aspiration towards Amitābha's Pure Land. |
+| **Transformation of Food Dhāraṇī** | Imagines a limited offering becoming sufficient for innumerable beings. |
+| **Sweet Dew Dhāraṇī** | Offers cooling nourishment and Dharma relief to thirsty beings. |
+| **Universal Offering Dhāraṇī** | Extends the offering throughout the whole Dharma realm. |
+
+Dhāraṇī syllables should be learned from the temple's liturgical text and sound model rather than reconstructed from English spelling.
+
+### Sending off the sacred
+
+The rite concludes by thanking and respectfully releasing the invoked assembly. This gives a clear boundary to the ritual encounter.
+
+## 12. Venerable Master Hsing Yun's Prayer
+
+**Source pages 52-58**
+
+### What is happening?
+
+A modern prayer restates the Water Repentance in direct language. It confesses greed, pride, hatred, wrong views and carelessness, then uses memorable images of dams, ploughs, light and cleansing water.
+
+### Why is it important?
+
+The prayer connects the medieval liturgy with Fo Guang Shan's Humanistic Buddhist emphasis on daily life. Repentance is applied to relationships, society, confidence, compassion and practical service.
+
+### Images to remember
+
+- **Dams of repentance** stop the flood of desire.
+- **Ploughs of repentance** level mountains of pride.
+- **Clear pearls** purify confused or defiled awareness.
+- **Dharma water** cleanses knots of karmic enmity.
+
+### The final pathway
+
+The prayer asks practitioners to use kindness and compassion to beautify life, joy and equanimity to improve society, precepts and meditation to regulate conduct, and wisdom to purify the mind. It is a concise programme for carrying the ritual into ordinary action.
+
+## 13. Final Verse of Dedication
+
+**Source page 58**
+
+### What is happening?
+
+The complete three-scroll practice ends by dedicating its benefit throughout all Dharma realms. Chan, Pure Land, ethical discipline and patient equality appear together.
+
+### What does this reveal about the tradition?
+
+The liturgy is not limited to one narrow method. It brings together meditation, Buddha-name recollection, precepts, repentance, mantra, wisdom and universal vows within a Chinese Mahāyāna and Fo Guang Shan setting.
+
+# Scroll Three in one view
+
+| Movement | Purpose |
+|---|---|
+| Lamp and entry | Bring wisdom into the final session. |
+| Triple Gem confession | Repair relationships with awakening, teaching and community. |
+| Resultative obstruction | Face impermanence and the consequences of karma. |
+| Realms of suffering | Turn fear and cruelty towards compassionate liberation. |
+| Universal dedication | Share every benefit with all beings. |
+| Memorial altar | Support the deceased through wisdom, offering and Pure Land aspiration. |
+| Hsing Yun prayer | Carry repentance into daily life and society. |
+
+Scroll Three's final message is transformation. Nothing harmful is denied, but no being is reduced forever to a harmful action or painful realm. Confession becomes vow, fear becomes urgency, offering becomes boundless and the merit of practice is released for the welfare and awakening of all.
+
+# Part IV: Core Buddhist concepts
 
 These are the ideas a beginner needs before reading or chanting Scroll One.
 
@@ -624,11 +1252,9 @@ A **mantra** is a sacred formula used to focus and protect the mind. A **dhāra�
 
 The source prints several formulas in romanised Sanskrit or a Sanskrit-derived liturgical form. Their sounds have passed through Indian, Central Asian and Chinese transmission. A neat word-for-word English translation is not always secure. The companion therefore explains what each formula is doing in the ritual and preserves the source spelling for recitation.
 
----
+# Part V: Buddhas and bodhisattvas
 
-# Part III: Buddhas and bodhisattvas
-
-Pronunciations are practical English approximations. They do not reproduce every distinction in Sanskrit, Mandarin or Vietnamese.
+Most of the principal figures are introduced in Scroll One and invoked again in Scrolls Two and Three. Dīpaṃkara Buddha appears in the lamp praise that opens Scroll Three. Pronunciations are practical English approximations; they do not reproduce every distinction in Sanskrit, Mandarin or Vietnamese.
 
 ## Four titles first
 
@@ -639,6 +1265,7 @@ Pronunciations are practical English approximations. They do not reproduce every
 | **Bodhisattva** | *boh-dee-SUT-vuh* | One committed to Buddhahood for the benefit of all beings. |
 | **Mahāsattva** | *muh-HAH-SUT-vuh* | “Great being”, an honorific for an advanced bodhisattva. |
 
+# Principal Buddhas
 
 ## Śākyamuni Buddha
 
@@ -722,6 +1349,26 @@ Scroll One invokes him during the Noon Offering as “disaster-eradicating and l
 
 *Artwork: Chinese mural of Medicine Master Buddha and his assembly, about 1319, Metropolitan Museum of Art. [Public domain](https://commons.wikimedia.org/wiki/File:Buddha_of_Medicine_Bhaishajyaguru_(Yaoshi_fo)_-_Google_Art_Project.jpg).*
 
+## Dīpaṃkara Buddha
+
+**Say it like:** *dee-PUNG-kah-rah BOOD-uh*
+**Name meaning:** Maker of Light
+**Recognise him:** an ancient Buddha standing or seated in monastic robes, sometimes connected with lamps
+
+![Dīpaṃkara Buddha](assets/artwork/dipankara.jpg)
+
+In a famous account, the future Śākyamuni was an ascetic named Sumedha. Seeing muddy ground before Dīpaṃkara, Sumedha spread his hair across it so the Buddha could pass. Dīpaṃkara then predicted that Sumedha would one day become Śākyamuni Buddha.
+
+Scroll Three invokes Dīpaṃkara in the opening lamp praise. The link between his name and light makes him a fitting figure for wisdom illuminating dark paths.
+
+**Why his name is invoked:** to recall long-term aspiration, humility and confidence that a vow can mature across an immense path.
+
+**Interesting fact:** the meeting between Dīpaṃkara and Sumedha became a frequent subject in Buddhist art because it represents a future Buddha receiving confirmation of his path.
+
+**Practice pathway:** make a sincere commitment now, even when its full result lies far beyond the present moment.
+
+*Artwork: Nepalese gilt image of Dīpaṃkara, about 1600-1650, Norton Simon Museum. CC0 image via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%27Dipankara_Buddha%27,_Nepal,_Norton_Simon_Museum_(cropped).JPG).*
+
 ## Maitreya
 
 **Say it like:** *my-TRAY-yah*  
@@ -762,6 +1409,7 @@ Scroll One includes both the stūpa and Prabhūtaratna in its Samantabhadra visu
 
 *Artwork: Śākyamuni and Prabhūtaratna, China, dated 609. Gary Todd, CC0 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sui_Gilt_Bronze_Buddha_of_Past_and_Present,_609_AD_(10433528426).jpg).*
 
+# Principal bodhisattvas
 
 ## Avalokiteśvara Bodhisattva
 
@@ -869,6 +1517,7 @@ No securely standard portrait has been identified for this figure. The symbolic 
 
 **Practice pathway:** adorn life through conduct rather than appearance alone.
 
+# The Seven Ancient Buddhas
 
 ![The Seven Ancient Buddhas](assets/artwork/seven_buddhas.jpg)
 
@@ -886,6 +1535,7 @@ Scroll One invokes a traditional succession of seven Buddhas. The first three be
 
 *Artwork: Chinese sculpture of the Seven Buddhas, Tang to Five Dynasties period. CC0 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tang_to_Five_Dynasties_Seven_Buddhas_(17089332696).jpg).*
 
+# Buddhas in the repeated litany
 
 The source names several Buddhas without giving stories or distinctive iconography. Their liturgical purpose is clear: they form an awakened assembly before whom confession and vows are made. The guide does not invent biographies.
 
@@ -897,6 +1547,7 @@ The source names several Buddhas without giving stories or distinctive iconograp
 | **Kasayadhvaja** | *kah-SAH-yah-dvah-jah* | “Banner of the monastic robe”, an image of renunciation and the Dharma made visible. |
 | **Siṃhanāda** | *SING-hah-NAH-dah* | “Lion's Roar”, an image of fearless Dharma teaching. |
 
+# Ritual and collective invocations
 
 Some titles sound like individual people but function more naturally as invocations of an image, quality or assembly.
 
@@ -909,9 +1560,7 @@ Some titles sound like individual people but function more naturally as invocati
 | **Dhyāna Bliss Treasury Bodhisattva-Mahāsattvas** | A personified image of the deep joy and ease associated with meditation. |
 | **Sanghārāma Bodhisattvas** | Protectors of monasteries and Buddhist practice places. |
 
----
-
-# Part IV: Pronunciation
+# Part VI: Pronunciation
 
 This guide aims for a confident, recognisable first reading. It is not a substitute for listening to a temple officiant or trained language speaker.
 
@@ -1009,14 +1658,10 @@ Vietnamese tones matter, and the cues below are deliberately rough. Northern and
 
 **Meaning:** “Homage to Amitābha Buddha” or “I take refuge in Amitābha Buddha”. It is a Vietnamese form of Buddha-name recitation. Listen and follow the local temple's rhythm and tones rather than forcing the English cue.
 
----
-
-# Part V: Glossary
+# Part VII: Glossary
 
 This glossary is consolidated from the English translation in all three scrolls (175 PDF pages in total). Repeated terms are listed once. Sanskrit spellings generally follow the PDFs. Explanations describe how a term is used in this Chinese Mahāyāna Buddhist liturgy; they do not imply that every Buddhist tradition uses it in exactly the same way.
 
-**Prepared by Daniel Franjkovic**  
-Contact: <daniel.franjkovic@outlook.com.au>
 
 For additional Buddhist terminology, visit the [Fo Guang Shan International Translation Center glossary](https://www.fgsitc.org/glossary/).
 
@@ -1446,16 +2091,15 @@ The Fo Guang Shan/Hsi Lai terminology pass resolved many compressed lists, but a
 
 The glossary remains a reading aid rather than an authorized liturgical commentary. A temple teacher can still supply the intended source note for the few edition-specific phrases listed above.
 
----
-
-# Part VI: References
+# Part VIII: References
 
 Links were checked on 22 August 2026. The guide paraphrases its copyrighted source and uses short labels only where necessary for explanation.
 
 ## Source liturgy
 
-- Fo Guang Shan Hsi Lai Temple. [*Liturgy of the Samādhi Water Repentance of Kindness and Compassion: Scroll One*](https://www.hsilai.org/tc/events/eBooks/FGSHsiLaiTemple__WaterRepentance_SCROLL_01.pdf). Electronic edition 3.0, 2022. Main source for the companion, page map, quotations, names and ritual structure.
-- Fo Guang Shan Hsi Lai Temple. [*Scroll Two*](https://www.hsilai.org/tc/events/eBooks/FGSHsiLaiTemple__WaterRepentance_SCROLL_02.pdf) and [*Scroll Three*](https://www.hsilai.org/tc/events/eBooks/FGSHsiLaiTemple__WaterRepentance_SCROLL_03.pdf). Consulted to understand the three-scroll structure and maintain consistent terminology.
+- Fo Guang Shan Hsi Lai Temple. [*Liturgy of the Samādhi Water Repentance of Kindness and Compassion: Scroll One*](https://www.hsilai.org/tc/events/eBooks/FGSHsiLaiTemple__WaterRepentance_SCROLL_01.pdf). Electronic edition 3.0, 2022. Main source for the Scroll One guide and page map.
+- Fo Guang Shan Hsi Lai Temple. [*Scroll Two*](https://www.hsilai.org/tc/events/eBooks/FGSHsiLaiTemple__WaterRepentance_SCROLL_02.pdf). Electronic edition 3.0, 2022. Main source for the Scroll Two guide and page map.
+- Fo Guang Shan Hsi Lai Temple. [*Scroll Three*](https://www.hsilai.org/tc/events/eBooks/FGSHsiLaiTemple__WaterRepentance_SCROLL_03.pdf). Electronic edition 3.0, 2022. Main source for the Scroll Three guide, memorial rites and final prayer.
 
 The PDFs credit Andrew Nguy and Raymond Kong as translators, editors and graphic designers. They state that reproduction requires the publisher's permission except for fair use. The original PDFs are therefore not included in this repository.
 
@@ -1490,7 +2134,7 @@ The PDFs credit Andrew Nguy and Raymond Kong as translators, editors and graphic
 Each image caption in `FIGURES.md` gives its direct museum or Wikimedia source and licence. Key collection records include:
 
 - The Metropolitan Museum of Art: [Avalokiteśvara](https://www.metmuseum.org/art/collection/search/39856), [Samantabhadra](https://www.metmuseum.org/art/collection/search/39634), [Mahāsthāmaprāpta](https://www.metmuseum.org/art/collection/search/36069) and [Kṣitigarbha](https://www.metmuseum.org/art/collection/search/39883).
-- Wikimedia Commons: [Śākyamuni](https://commons.wikimedia.org/wiki/File:Qing_Dynasty_Shakyamuni_Buddha.jpg), [Vairocana](https://commons.wikimedia.org/wiki/File:Longmen.Vairocana.jpg), [Amitābha](https://commons.wikimedia.org/wiki/File:Amitabha_Buddha_in_Tangka.jpg), [Maitreya](https://commons.wikimedia.org/wiki/File:Bodhisattva_Maitreya,_the_Future_Buddha_-_Google_Art_Project.jpg), [Medicine Master Buddha](https://commons.wikimedia.org/wiki/File:Buddha_of_Medicine_Bhaishajyaguru_(Yaoshi_fo)_-_Google_Art_Project.jpg), [Prabhūtaratna and Śākyamuni](https://commons.wikimedia.org/wiki/File:Sui_Gilt_Bronze_Buddha_of_Past_and_Present,_609_AD_(10433528426).jpg) and the [Seven Buddhas](https://commons.wikimedia.org/wiki/File:Tang_to_Five_Dynasties_Seven_Buddhas_(17089332696).jpg).
+- Wikimedia Commons: [Śākyamuni](https://commons.wikimedia.org/wiki/File:Qing_Dynasty_Shakyamuni_Buddha.jpg), [Vairocana](https://commons.wikimedia.org/wiki/File:Longmen.Vairocana.jpg), [Amitābha](https://commons.wikimedia.org/wiki/File:Amitabha_Buddha_in_Tangka.jpg), [Dīpaṃkara](https://commons.wikimedia.org/wiki/File:%27Dipankara_Buddha%27,_Nepal,_Norton_Simon_Museum_(cropped).JPG), [Maitreya](https://commons.wikimedia.org/wiki/File:Bodhisattva_Maitreya,_the_Future_Buddha_-_Google_Art_Project.jpg), [Medicine Master Buddha](https://commons.wikimedia.org/wiki/File:Buddha_of_Medicine_Bhaishajyaguru_(Yaoshi_fo)_-_Google_Art_Project.jpg), [Prabhūtaratna and Śākyamuni](https://commons.wikimedia.org/wiki/File:Sui_Gilt_Bronze_Buddha_of_Past_and_Present,_609_AD_(10433528426).jpg) and the [Seven Buddhas](https://commons.wikimedia.org/wiki/File:Tang_to_Five_Dynasties_Seven_Buddhas_(17089332696).jpg).
 
 ## Editorial limits
 
