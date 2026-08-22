@@ -93,7 +93,7 @@ Scroll One invokes him during the Noon Offering as “disaster-eradicating and l
 
 **Practice pathway:** identify the cause of harm, apply a fitting remedy and use restored strength to help others.
 
-*Artwork: Chinese mural of Medicine Master Buddha and his assembly, about 1319, Metropolitan Museum of Art. [Public domain](https://commons.wikimedia.org/wiki/File:Buddha_of_Medicine_Bhaishajyaguru_(Yaoshi_fo)_-_Google_Art_Project.jpg).*
+*Artwork: Chinese mural of Medicine Master Buddha and his assembly, about 1319, Metropolitan Museum of Art. [Public domain](https://commons.wikimedia.org/wiki/File:Buddha_of_Medicine_Bhaishajyaguru_%28Yaoshi_fo%29_-_Google_Art_Project.jpg).*
 
 ## Dīpaṃkara Buddha
 
@@ -113,7 +113,7 @@ Scroll Three invokes Dīpaṃkara in the opening lamp praise. The link between h
 
 **Practice pathway:** make a sincere commitment now, even when its full result lies far beyond the present moment.
 
-*Artwork: Nepalese gilt image of Dīpaṃkara, about 1600-1650, Norton Simon Museum. CC0 image via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%27Dipankara_Buddha%27,_Nepal,_Norton_Simon_Museum_(cropped).JPG).*
+*Artwork: Nepalese gilt image of Dīpaṃkara, about 1600-1650, Norton Simon Museum. CC0 image via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%27Dipankara_Buddha%27,_Nepal,_Norton_Simon_Museum_%28cropped%29.JPG).*
 
 ## Maitreya
 
@@ -153,7 +153,7 @@ Scroll One includes both the stūpa and Prabhūtaratna in its Samantabhadra visu
 
 **Practice pathway:** stop hiding the truth and make reform accountable before a worthy witness.
 
-*Artwork: Śākyamuni and Prabhūtaratna, China, dated 609. Gary Todd, CC0 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sui_Gilt_Bronze_Buddha_of_Past_and_Present,_609_AD_(10433528426).jpg).*
+*Artwork: Śākyamuni and Prabhūtaratna, China, dated 609. Gary Todd, CC0 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sui_Gilt_Bronze_Buddha_of_Past_and_Present,_609_AD_%2810433528426%29.jpg).*
 
 # Principal bodhisattvas
 
@@ -279,7 +279,7 @@ Scroll One invokes a traditional succession of seven Buddhas. The first three be
 | **Kāśyapa Buddha** | *KAH-shyah-pah* | Buddha immediately before Śākyamuni, not the disciple Mahākāśyapa. |
 | **Śākyamuni** | *SHAH-kyah-MOO-nee* | The historical teacher of our world. |
 
-*Artwork: Chinese sculpture of the Seven Buddhas, Tang to Five Dynasties period. CC0 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tang_to_Five_Dynasties_Seven_Buddhas_(17089332696).jpg).*
+*Artwork: Chinese sculpture of the Seven Buddhas, Tang to Five Dynasties period. CC0 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tang_to_Five_Dynasties_Seven_Buddhas_%2817089332696%29.jpg).*
 
 # Buddhas in the repeated litany
 

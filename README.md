@@ -18,13 +18,13 @@ All print-ready resources are kept together in the [`downloads`](downloads/) fol
 | [Scroll One Practice Companion](downloads/01-scroll-one-practice-companion.pdf) | 16 | Origins, refuge, afflictions, vows and wisdom |
 | [Scroll Two Practice Companion](downloads/02-scroll-two-practice-companion.pdf) | 14 | Karma, ethical conduct, speech and the six senses |
 | [Scroll Three Practice Companion](downloads/03-scroll-three-practice-companion.pdf) | 13 | Karmic results, dedication, memorial and Pure Land rites |
-| [Complete Three-Scroll Companion](downloads/04-complete-three-scroll-companion.pdf) | 76 | The entire study resource in one printable volume |
+| [Master Print Edition](downloads/04-master-print-edition.pdf) | 82 | The complete three-scroll resource with visual maps and reference sections |
 | [Buddhas and Bodhisattvas Guide](downloads/05-buddhas-and-bodhisattvas-guide.pdf) | 14 | Pictures, pronunciation, stories, symbolism and pathways |
 | [Glossary Reference](downloads/06-glossary-reference.pdf) | 22 | 375 terms and a clear explanation of the six senses |
 
 ### Recommended order
 
-Read the three short practice companions alongside their matching official scrolls. Keep the illustrated figure guide and glossary nearby for quick reference. Use the 76-page complete edition when you prefer everything in one file.
+Read the three short practice companions alongside their matching official scrolls. Keep the illustrated figure guide and glossary nearby for quick reference. Use the 82-page master print edition when you prefer everything in one polished volume.
 
 ## Official source liturgies
 
@@ -38,6 +38,7 @@ Read the three short practice companions alongside their matching official scrol
 ## Read online
 
 - [Complete companion in one Markdown file](SAMADHI_WATER_REPENTANCE_COMPANION.md)
+- [Master orientation and visual maps](MASTER_OVERVIEW.md)
 - [Scroll One companion](PRACTICE_COMPANION.md)
 - [Scroll Two companion](SCROLL_TWO_COMPANION.md)
 - [Scroll Three companion](SCROLL_THREE_COMPANION.md)
@@ -59,6 +60,7 @@ Read the three short practice companions alongside their matching official scrol
 - a full explanation of the six senses;
 - beginner profiles with pictures, stories, iconography, pronunciation and practice pathways;
 - diagrams for the ritual sequence and difficult doctrines;
+- a visual map of the ten directions and a concise figure-role chart;
 - careful treatment of uncertain history and compressed ritual terms;
 - concise Vietnamese name equivalents only where they help recognition.
 

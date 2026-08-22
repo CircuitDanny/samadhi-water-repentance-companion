@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="720" viewBox="0 0 1600 720" role="img" aria-labelledby="title desc">
+  <title id="title">The three-scroll practice journey</title>
+  <desc id="desc">Three connected stages move from seeing afflictions, through reforming conduct, to transforming results and dedicating merit.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f8f4e9"/>
+      <stop offset="1" stop-color="#e7f3ef"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="130%">
+      <feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#153f3c" flood-opacity="0.13"/>
+    </filter>
+  </defs>
+  <rect width="1600" height="720" rx="38" fill="url(#bg)"/>
+  <path d="M285 544 C480 620 605 620 800 544 C995 468 1120 468 1315 544" fill="none" stroke="#9bc7bd" stroke-width="8" opacity="0.62"/>
+  <path d="M285 578 C480 654 605 654 800 578 C995 502 1120 502 1315 578" fill="none" stroke="#2c6d68" stroke-width="5" opacity="0.30"/>
+
+  <g filter="url(#shadow)">
+    <rect x="90" y="105" width="410" height="365" rx="28" fill="#ffffff" stroke="#9bc7bd" stroke-width="4"/>
+    <rect x="595" y="105" width="410" height="365" rx="28" fill="#ffffff" stroke="#9bc7bd" stroke-width="4"/>
+    <rect x="1100" y="105" width="410" height="365" rx="28" fill="#ffffff" stroke="#9bc7bd" stroke-width="4"/>
+  </g>
+
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <circle cx="295" cy="175" r="42" fill="#b7783e"/>
+    <text x="295" y="190" font-size="42" font-weight="700" fill="#ffffff">I</text>
+    <text x="295" y="260" font-size="37" font-weight="700" fill="#153f3c">SEE THE CAUSES</text>
+    <text x="295" y="315" font-size="26" fill="#526c69">Afflictions, refuge,</text>
+    <text x="295" y="352" font-size="26" fill="#526c69">remorse and vows</text>
+    <text x="295" y="420" font-size="24" font-weight="700" fill="#2c6d68">Recognise clearly</text>
+
+    <circle cx="800" cy="175" r="42" fill="#b7783e"/>
+    <text x="800" y="190" font-size="42" font-weight="700" fill="#ffffff">II</text>
+    <text x="800" y="260" font-size="37" font-weight="700" fill="#153f3c">REFORM CONDUCT</text>
+    <text x="800" y="315" font-size="26" fill="#526c69">Body, speech, mind</text>
+    <text x="800" y="352" font-size="26" fill="#526c69">and the six senses</text>
+    <text x="800" y="420" font-size="24" font-weight="700" fill="#2c6d68">Choose differently</text>
+
+    <circle cx="1305" cy="175" r="42" fill="#b7783e"/>
+    <text x="1305" y="190" font-size="42" font-weight="700" fill="#ffffff">III</text>
+    <text x="1305" y="260" font-size="33" font-weight="700" fill="#153f3c">TRANSFORM RESULTS</text>
+    <text x="1305" y="315" font-size="26" fill="#526c69">Consequences, dedication</text>
+    <text x="1305" y="352" font-size="26" fill="#526c69">and Pure Land aspiration</text>
+    <text x="1305" y="420" font-size="24" font-weight="700" fill="#2c6d68">Include all beings</text>
+  </g>
+
+  <g fill="none" stroke="#b7783e" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M522 287 H570"/>
+    <path d="M550 267 L570 287 L550 307"/>
+    <path d="M1027 287 H1075"/>
+    <path d="M1055 267 L1075 287 L1055 307"/>
+  </g>
+
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <text x="800" y="634" font-size="25" letter-spacing="3" font-weight="700" fill="#153f3c">ONE CONTINUING PRACTICE OF REPENTANCE AND REFORM</text>
+  </g>
+</svg>
