@@ -1,6 +1,6 @@
 # References
 
-Links were checked on 22 August 2026. The guide paraphrases its copyrighted source and uses short labels only where necessary for explanation.
+Links were checked on 24 August 2026. The guide paraphrases its copyrighted source and uses short labels only where necessary for explanation.
 
 ## Source liturgy
 
@@ -16,6 +16,7 @@ The PDFs credit Andrew Nguy and Raymond Kong as translators, editors and graphic
 - Fo Guang Shan International Translation Center. [*The Heart Sūtra*](https://www.fgsitc.org/wp-content/uploads/2024/04/Heart-Sutra-2016.pdf). Five aggregates, emptiness and Avalokiteśvara.
 - Fo Guang Shan International Translation Center. [*The Amitabha Sutra*](https://www.fgsitc.org/the-amitabha-sutra/). Amitābha, Sukhāvatī and Pure Land practice.
 - Fo Guang Shan International Translation Center. [*The Forty-Eight Vows of Amitabha Buddha*](https://www.fgsitc.org/the-forty-eight-vows-of-amitabha-buddha/). Dharmākara's vows and Pure Land aspiration.
+- Fo Guang Shan International Translation Center. [*Starting a Daily Practice*](https://www.fgsitc.org/starting-a-daily-practice/). Amitābha name-recitation, Pure Land aspiration and the image of rebirth on a lotus.
 - Fo Guang Shan International Translation Center. [Master's Advice on Daily Practice](https://www.fgsitc.org/masters-advice-on-daily-practice/). Refuge, prostration, offerings, chanting and dedication.
 - Fo Guang Shan International Translation Center. [*Visiting a Buddhist Temple*](https://www.fgsitc.org/wp-content/uploads/2025/05/B10-Visiting-a-Buddhist-Temple-2019.pdf). Temple etiquette and ritual actions.
 - Fo Guang Shan International Translation Center. [*The Buddhist Perspective on Life and Destiny*](https://www.fgsitc.org/wp-content/uploads/2023/04/A5-The-Buddhist-Perspective-on-Life-and-Destiny-2019.pdf). Karma, repentance and the image of Dharma water.
@@ -26,8 +27,13 @@ The PDFs credit Andrew Nguy and Raymond Kong as translators, editors and graphic
 
 - BDK America. [*The Mahayana Sutra of Previous Lives and Contemplation of the Mind-ground*](https://bdkamerica.org/wp-content/uploads/2021/08/dBET_T0159_Previous-Lives_2021.pdf). Confession, shame, vows and repentance at phenomenal and principle levels.
 - BDK America. [*A Forest of Pearls from the Dharma Garden*, volume 1](https://bdkamerica.org/wp-content/uploads/2020/07/dBET_T2122_Forest-of-Pearls01_2019.pdf). Traditional cosmology and six-realm context.
+- 84000: Translating the Words of the Buddha. [*The Dhāraṇī “Essence of Immeasurable Longevity and Wisdom”*](https://84000.co/translation/toh850). A canonical example linking recitation of Amitābha's name with Sukhāvatī and lotus birth rather than gestation in a womb.
 - SuttaCentral. [Aṅguttara Nikāya 6.63, *Penetrative*](https://suttacentral.net/an6.63/en/bodhi). Early Buddhist definition of karma through intention.
 - SuttaCentral. [Saṃyutta Nikāya 12.2, *Analysis of Dependent Origination*](https://suttacentral.net/sn12.2/en/bodhi). The twelve links.
+
+## Later Pure Land teaching used with a clear label
+
+- Amitabha Buddhist Society. [*Pure Mind, Compassionate Heart: Lessons from the Amitabha Sutra*](https://www1.amtb.tw/pdf/HZ50-032-01.pdf), p. 91. Source for the later devotional image of a lotus associated with the practitioner and described as bearing the practitioner's name. The companion does not present this detail as wording from the Water Repentance or the shorter *Amitābha Sūtra*.
 
 ## Historical and academic studies
 
@@ -46,7 +52,9 @@ Each image caption in `FIGURES.md` gives its direct museum or Wikimedia source a
 ## Editorial limits
 
 - Sanskrit names and terms are normalised only where the identification is secure. The source spelling remains the reference for chanting.
-- English pronunciation cues are approximations, not International Phonetic Alphabet transcriptions.
+- English pronunciation cues are approximations, not International Phonetic Alphabet transcriptions. In communal chanting, the officiant and the source's pinyin rhythm take priority.
+- Mantra words are translated only where the Sanskrit sense is reasonably secure. Transmitted syllables with uncertain grammar are explained by ritual function rather than assigned an invented literal meaning.
+- Lotus birth is distinguished from the later devotional image of a name-bearing lotus. The former is widely attested in Pure Land sources; the latter is presented as a teaching image, not as a sentence from the source liturgy.
 - Vietnamese names are a recognition aid only. Tone and regional pronunciation should be learned from a Vietnamese speaker or temple.
 - Literal and psychological interpretations of cosmological realms are both identified as recognised approaches. The guide does not claim that all Buddhist traditions interpret them in the same way.
 - The traditional Wuda narrative is explained respectfully and distinguished from historical verification.

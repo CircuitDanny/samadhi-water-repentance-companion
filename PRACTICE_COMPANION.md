@@ -335,6 +335,22 @@ The source provides a Sanskrit-derived recitation rather than a prose translatio
 
 Dedication includes Dharma protectors, spirits, living relatives, ancestors, friends, enemies and all beings. The aspiration to the Pure Land gives this shared benefit a direction towards awakening.
 
+### Why these words are not English
+
+The English heading names the chant, but the line beneath it is a **transliteration**, meaning sacred sounds written in the Latin alphabet. These sounds began in an Indic language, were represented phonetically with Chinese characters, and were then transmitted through centuries of Chinese Buddhist chanting. The Chinese characters in this part often represent sound rather than an ordinary Chinese sentence.
+
+This is why a line such as *ripa ripate* looks like English letters but is not English. Some Sanskrit words remain recognisable, while other syllables cannot be translated securely. In group practice, the officiant and the pinyin line in the temple text are the pronunciation authority. The cue below is only a calm first reading of the source's Latin-letter line.
+
+### Chant guide: Seven Buddhas Offence-Extinguishing Mantra
+
+**Where:** source PDF page 51, printed page 45.
+
+> **Source form:** *ripa ripate kuha kuhate tranite nigalate* [[BR]] *vimarite mahāgate jāmlamcamte svāhā* [[BR]] **Easy cue:** *REE-pah REE-pah-tay, KOO-hah KOO-hah-tay, TRAH-nee-tay, NEE-gah-lah-tay; VEE-mah-ree-tay, mah-HAA-gah-tay, JAHM-lahm-CHAHM-tay, SWAA-hah.*
+
+**What it means:** There is no responsible word-for-word translation of the whole formula. *Mahā* means “great”, *gate* is related to going or having gone, and *svāhā* is a traditional ending that seals or completes a mantra. Its Chinese title gives the reliable overall meaning: a mantra of the Seven Buddhas for extinguishing offences.
+
+**Why it is chanted:** It gathers attention, expresses the intention that harmful karma and its obstructions be purified, and seals the confession before the exit prayer. It should be understood as a purification formula, not as a hidden English sentence.
+
 ## 14. Noon Offering Before the Buddhas
 
 **Source pages 55 to 58**
@@ -350,6 +366,44 @@ Food, one of life's basic supports, becomes a practice of gratitude and impartia
 ### What does it mean?
 
 “Transformation” and “sweet dew” express abundance and relief. The physical portion may be limited, but the vow to nourish and include beings is not.
+
+### Chant guide: Transformation of Food Dhāraṇī
+
+**Where:** source PDF page 57, printed page 51. It is repeated on source pages 61-62 in the memorial rite.
+
+> **Source form:** *Namaḥ sarva-tathāgatāvalokite; oṃ sambhara sambhara hūṃ* [[BR]] **Easy cue:** *NAH-mah SAR-vah tah-THAA-gah-TAA-vah-loh-kee-tay; ohm SUM-bha-rah SUM-bha-rah hoom.*
+
+**Plain meaning:** “Homage to all the Tathāgatas who behold”, followed by a formula calling the offering to be gathered, supplied or made abundant. *Hūṃ* is a forceful closing syllable and is gently nasalised.
+
+**Why it is chanted:** A limited physical portion is imaginatively transformed into an offering sufficient for innumerable beings. The point is boundless generosity, not a claim that the food's chemistry visibly changes.
+
+### Chant guide: Sweet Dew Dhāraṇī
+
+**Where:** source PDF page 57, printed page 51. It is repeated on source page 62.
+
+> **Source form:** *Namaḥ surūpāya tathāgatāya tadyathā; oṃ suru suru pra suru pra suru svāhā* [[BR]] **Easy cue:** *NAH-mah soo-ROO-paa-yah tah-THAA-gah-taa-yah tud-yuh-THAA; ohm SOO-roo SOO-roo prah SOO-roo prah SOO-roo SWAA-hah.*
+
+**Plain meaning:** The opening honours the Beautiful-Form Tathāgata and introduces the formula with “thus”. The repeated *suru* sounds do not have a secure separate English meaning here. “Sweet dew” translates *amṛta*, the deathless nectar used as an image of Dharma relief and liberation.
+
+**Why it is chanted:** It expresses the wish that the offering become cooling, nourishing relief for hungry or distressed beings and lead beyond suffering.
+
+### Chant guide: Universal Offering Dhāraṇī
+
+**Where:** source PDF page 58, printed page 52. It is repeated on source page 62.
+
+> **Source form:** *Oṃ gagana sambhava vajra hoḥ* [[BR]] **Easy cue:** *ohm GAH-gah-nah SUM-bha-vah VAJ-rah hoh.*
+
+**Plain meaning:** The recoverable words suggest “born or arisen from space” and *vajra*, the diamond or thunderbolt symbol of indestructible awakened power. *Hoḥ* is a concluding ritual syllable. The formula is better understood by its function than forced into a complete English sentence.
+
+**Why it is chanted:** It expands the offering beyond one altar or one group, imagining it as vast as space and available throughout the Dharma realm.
+
+### Chant cue within the Celestial Kitchen Praise
+
+**Where:** source PDF page 58, printed page 52.
+
+> **Source form:** *Oṃ suru-sarva tathāgata tadyathā suru svāhā* [[BR]] **Easy cue:** *ohm SOO-roo SAR-vah tah-THAA-gah-tah tud-yuh-THAA SOO-roo SWAA-hah.*
+
+**Plain meaning and purpose:** *Sarva tathāgata* means “all Tathāgatas” and *tadyathā* means “thus”. The *suru* sounds are retained rather than guessed at. Within the praise, the line consecrates the food offering and directs it towards all Buddhas and beings.
 
 ### Beginner notes
 
@@ -376,9 +430,37 @@ Avalokiteśvara sees that the five aggregates are empty of independent essence a
 
 This does not say that people or grief are unreal. It says they arise through conditions and cannot be possessed as permanent, separate things.
 
+### Chant guide: Heart Sūtra mantra
+
+**Where:** source PDF page 61, printed page 55.
+
+> **Source form:** *gate gate pāragate pārasaṃgate bodhi svāhā* [[BR]] **Easy cue:** *GAH-tay GAH-tay PAA-rah-gah-tay PAA-rah-sung-gah-tay BOH-dhee SWAA-hah.*
+
+**Plain meaning:** A common interpretive rendering is “gone, gone, gone beyond, gone completely beyond, awakening, svāhā”. It is not a command to travel physically. It points to wisdom crossing beyond clinging and fixed concepts.
+
+**Why it is chanted:** The mantra condenses the Heart Sūtra's movement beyond fear and attachment into a memorable closing formula.
+
+### Chant guide: Rebirth in the Pure Land Dhāraṇī
+
+**Where:** source PDF page 61, printed page 55.
+
+> **Source form:** *Namo'mitābhāya tathāgatāya tadyathā; [oṃ] amṛtod bhave amṛta-siddhaṃ bhave; amṛta-vikrānte amṛta-vikrānta; gāmini gagana kīrta kāre svāhā* [[BR]] **Easy cue:** *NAH-moh ah-mee-TAA-bhaa-yah tah-THAA-gah-taa-yah tud-yuh-THAA; ohm uh-MRIH-tohd BHAH-vay, uh-MRIH-tah SID-dhum BHAH-vay; uh-MRIH-tah vee-KRAAN-tay, uh-MRIH-tah vee-KRAAN-tah; GAA-mee-nee GAH-gah-nah KEER-tah KAA-ray SWAA-hah.*
+
+**Plain meaning:** The opening is clear: “Homage to Amitābha Tathāgata; thus”. *Amṛta* means “deathless” and also “nectar”, while *siddhaṃ* concerns accomplishment. Later words suggest powerful advance, going and space, but the transmitted grammar is not secure enough for a confident full translation.
+
+**Why it is chanted:** The overall purpose is purification, recollection of Amitābha and aspiration for rebirth in Sukhāvatī, where practice can continue towards awakening without ordinary regression.
+
 ### Why Amitābha?
 
 Amitābha's vows and Pure Land provide a focus for remembrance, trust and aspiration. “Guide and Receiver of the West” expresses the hope that beings will be welcomed into conditions where practice continues without regression.
+
+### When you hear “Nam Mô A Di Đà Phật”
+
+This Vietnamese Buddha-name recitation means **“Homage to Amitābha Buddha”** or **“I take refuge in Amitābha Buddha”**. A rough Southern Vietnamese cue is *nahm moh ah yee dah fuht*. The last word, *Phật*, ends with a short, unreleased “t”. Follow the temple's tones and rhythm when chanting with the community.
+
+Reciting the name is not simply praying to the “next layer”. It recollects Amitābha and voices the wish to be reborn after this life in **Sukhāvatī**, his Western Pure Land or Buddha-field. The liturgy pictures the nine grades of lotus blossoms as one's parents: this is transformational or lotus birth rather than ordinary birth from a womb.
+
+> **The lotus with your name:** Some later Pure Land teaching materials say that sincere faith, vows, name-recitation and practice nourish a lotus in Sukhāvatī associated with the practitioner, sometimes pictured as bearing the practitioner's name. This is a devotional visualisation, not a sentence found in the Water Repentance or the shorter *Amitābha Sūtra*. Its practical message is that each recitation strengthens one's direction towards the Pure Land, and the opening lotus represents awakening and seeing Amitābha.
 
 ### The closing synthesis
 
@@ -399,4 +481,3 @@ After reading a section, use four short questions:
 4. **What will replace it?** Make a specific vow and build conditions that support it.
 
 Then dedicate any benefit beyond yourself. This is the ethical movement at the heart of Scroll One.
-

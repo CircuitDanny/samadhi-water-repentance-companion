@@ -10,6 +10,22 @@ The scrolls form one continuing movement. Scroll One identifies the afflictions 
 
 > **In simple terms:** see the cause, reform the conduct, face the results and direct the benefit towards awakening.
 
+## Why some “English” lines are not English
+
+Lines such as *ripa ripate*, *oṃ sambhara sambhara hūṃ* and *gate gate pāragate* are not faulty English translations. They are **transliterations**: sacred sounds written with the Latin alphabet so they can be recited.
+
+The source pages show three layers:
+
+1. a pinyin line guiding the Chinese liturgical pronunciation;
+2. Chinese characters, many chosen historically to represent the sounds of an Indic formula; and
+3. a Sanskrit or Sanskrit-derived Latin-letter form.
+
+The sound travelled from India through Central Asian and Chinese transmission, while spoken languages changed. For that reason, there is no single modern spelling that perfectly recreates every ancient syllable. Some chants can be partly translated, while others have a clear ritual purpose but no secure word-for-word English meaning.
+
+> **Best chanting rule:** in communal practice, follow the officiant and the pinyin rhythm in the Fo Guang Shan text. Use this guide's English sound cues for preparation and understanding, not to override the living temple tradition.
+
+Each scroll section now explains the chant beside the place where it occurs. The pronunciation part later in this volume gathers every formula into one reference.
+
 ## The ten directions
 
 ![The ten directions in Buddhist language](assets/diagrams/ten-directions.svg)

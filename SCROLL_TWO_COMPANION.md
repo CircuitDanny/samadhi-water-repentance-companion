@@ -270,9 +270,21 @@ A short mantra marks the completion of Scroll Two's main confession.
 
 ### How should a beginner approach it?
 
-Mantra syllables are preserved for recitation and are not ordinary prose to be translated word by word. Their ritual function is concentration, continuity with transmitted practice and the sealing of the confession.
+The English heading names the chant, but the line beneath it is a **transliteration**, not an English sentence. Its sounds began in an Indic language, were represented phonetically with Chinese characters, and were transmitted through Chinese Buddhist chanting. Some Sanskrit elements remain recognisable, while other syllables cannot be translated securely.
+
+Its ritual function is concentration, continuity with transmitted practice and the sealing of the confession.
 
 Use the temple text and follow the officiant's rhythm. English phonetic spellings cannot fully reproduce the source sounds.
+
+### Sound, meaning and purpose
+
+**Where:** source PDF page 50, printed page 48.
+
+> **Source form:** *ripa ripate kuha kuhate tranite nigalate* [[BR]] *vimarite mahāgate jāmlamcamte svāhā* [[BR]] **Easy cue:** *REE-pah REE-pah-tay, KOO-hah KOO-hah-tay, TRAH-nee-tay, NEE-gah-lah-tay; VEE-mah-ree-tay, mah-HAA-gah-tay, JAHM-lahm-CHAHM-tay, SWAA-hah.*
+
+**What it means:** There is no responsible word-for-word translation of the whole formula. *Mahā* means “great”, *gate* is related to going or having gone, and *svāhā* is a traditional ending that seals or completes a mantra. Its Chinese title gives the reliable overall meaning: a mantra of the Seven Buddhas for extinguishing offences.
+
+**Why it is chanted:** It gathers attention, expresses the intention that harmful karma and its obstructions be purified, and seals Scroll Two's confession of conduct before the exit prayer. In simple terms, the practitioner is acknowledging harm, asking that its obstructive force be cleared, and committing to move towards awakening.
 
 ## 12. Prayer of Exiting Repentance
 

@@ -11,7 +11,7 @@ For additional Buddhist terminology, visit the [Fo Guang Shan International Tran
 
 Look up a word, numbered teaching, ritual action, title, place, or unusual expression in the alphabetical table. Cross-references are included in the explanation itself. Where the English edition uses an unusual translation, the explanation gives the more familiar Buddhist term. A few compressed phrases cannot be identified with certainty; these are described carefully and collected after the table.
 
-Only the English translation was used to select glossary entries. Chinese characters and transliteration were consulted in the second pass solely to identify what an unclear English label refers to. The non-English mantra and dhāraṇī syllables have not been translated.
+The English translation was used to select the original glossary entries. Chinese characters and transliteration were consulted to identify unclear labels and, in this edition, to explain the chant passages. Recognisable Sanskrit words are explained, but uncertain transmitted syllables are not forced into invented translations.
 
 ## The six senses at a glance
 
@@ -185,6 +185,7 @@ The sequence is not a claim that every experience must end in craving or aversio
 | Gate of Sweet Dew | A poetic name for liberating Buddhist teaching. Sweet dew or nectar represents the “deathless” relief of nirvāṇa. |
 | Golden Sage; King of Awakening; Tamer | Honorific images for a Buddha: radiant with wisdom, sovereign in awakening, and able to guide difficult beings. |
 | Heart Sūtra | A short and influential Mahāyāna scripture teaching the emptiness of the five aggregates and all fixed categories, while presenting wisdom beyond attachment as the way through suffering. |
+| Heart Sūtra mantra; *gate gate pāragate pārasaṃgate bodhi svāhā* | A closing formula commonly understood as “gone, gone, gone beyond, gone completely beyond, awakening, svāhā”. It points to wisdom passing beyond clinging and fear, not to physical travel. |
 | Heart Sūtra’s “no eyes … no path … no attainment” | Speech from the ultimate perspective of emptiness: none of these categories exists independently or can be possessed as a fixed thing. It is not a denial that eyes, ethical practice, or the path function in everyday life. |
 | Heavenly or celestial eyes | A traditional supernormal ability to see far away, through obstructions, and into beings’ karmic destinies. It is also used figuratively for vision beyond ordinary sight. |
 | Hell wardens; Ox-Headed Warden | Fearsome figures in Buddhist hell narratives who administer karmic punishment. They personify the unavoidable consequences described by the text. |
@@ -218,6 +219,7 @@ The sequence is not a claim that every experience must end in craving or aversio
 | Liberation; other shore | Freedom from affliction, suffering, and the cycle of rebirth. Crossing an ocean or reaching the “other shore” is a common metaphor for attaining it. |
 | Liturgy | A fixed order of communal worship, chanting, movement, confession, and dedication. |
 | Lotus birth; born through transformation | Rebirth in a Pure Land pictured as appearing within a lotus rather than being born through an ordinary womb. |
+| Lotus with the practitioner's name | A later Pure Land devotional image in which faith, vows, name-recitation and practice nourish a lotus in Sukhāvatī associated with the practitioner, sometimes pictured as bearing the practitioner's name. This detail is not stated in the Water Repentance or the shorter *Amitābha Sūtra*. |
 | Lotus Pool or Great Oceanic Assembly | The vast gathering of Amitābha, bodhisattvas, and Pure Land practitioners, poetically pictured around a lotus pool. |
 | Loving-kindness | The sincere wish that beings be happy and encounter the causes of happiness. |
 | Mahāsthāmaprāpta Bodhisattva | The bodhisattva “Arrival of Great Strength,” representing the power of wisdom and mindful recollection of Amitābha in Pure Land Buddhism. |
@@ -227,6 +229,7 @@ The sequence is not a claim that every experience must end in craving or aversio
 | Manifested Buddha or bodhisattva; trillion-fold bodies; thirty-two responses | Different forms that an awakened being is said to display according to beings’ needs. The numbers emphasize limitless compassionate adaptability. |
 | Mañjuśrī Bodhisattva | The bodhisattva who personifies profound wisdom. He is often shown with a sword that cuts through ignorance. |
 | Mantra | A sacred formula recited for concentration, protection, purification, or blessing. The sound may be preserved even when a straightforward word-for-word translation is unavailable. |
+| Mantra or dhāraṇī printed in Latin letters | A transliteration of sacred sounds, not an English sentence. In this liturgy the sound has often travelled through an Indic original, Chinese phonetic characters and a living Chinese chanting tradition. |
 | Marks and characteristics; Thirty-Two Marks and Eighty Signs; ūrṇā | Idealized bodily features said to display a Buddha’s accumulated virtue. The ūrṇā is the white curl or mark between the eyebrows, sometimes poetically called jade. |
 | Master Wuda Zhixuan | The eminent Chinese monk to whom the Water Repentance is attributed. In the origin legend, a painful human-faced tumor reveals an old karmic grievance and is cleansed with samādhi water. |
 | Medicine Master Buddha | The Buddha associated with healing, protection from disaster, and the aspiration for long and wholesome life. |
@@ -238,6 +241,7 @@ The sequence is not a claim that every experience must end in craving or aversio
 | Mount Meru; Four Continents | The central mountain and surrounding human worlds in ancient Buddhist cosmology. They provide the traditional map used in many scriptures and rituals. |
 | Mt. Jiulong; Nine Peaks; Western Shu; Pengzhou | Place names in the Wuda origin story, describing the mountain region where he seeks Honored Kanaka and finds the healing spring. |
 | Nāga | A powerful serpent or dragon-like being associated with water, treasure, and protection of the Dharma. |
+| Nam Mô A Di Đà Phật; Namo Amituofo | Vietnamese and Mandarin forms of “Homage to Amitābha Buddha”. Reciting the name recollects Amitābha and expresses refuge and aspiration for rebirth in Sukhāvatī. |
 | National Master | An honorific given by an emperor to an eminent Buddhist teacher who served or advised the state. |
 | Nine Conditions | The Chinese term can refer to nine supports by which sensory consciousness arises, such as a functioning faculty, an object, light or space, attention, and continuity. Commentators on this exact repentance passage disagree about whether that technical list is intended, so the safest beginner meaning is “the many conditions through which confused consciousness and action arise.” |
 | Nine Difficulties; Nine Vexations | The PDF’s “Difficulties” translates a term for nine occasions of resentment: thinking that someone harmed, harms, or will harm oneself; did so to someone one loves; or helped, helps, or will help someone one opposes. It shows anger multiplying across self/other and past/present/future. |
@@ -254,6 +258,7 @@ The sequence is not a claim that every experience must end in craving or aversio
 | Non-retrogressing bodhisattva | A bodhisattva who has reached a stage from which progress toward Buddhahood will no longer fall back. |
 | Non-self | The teaching that no permanent, independent, fully controlling “I” can be found in the changing body and mind. It does not deny ordinary personhood or ethical responsibility. |
 | Noon Offering Before the Buddhas | A midday food-offering service addressed to Buddhas, bodhisattvas, the Sangha, and – in expanded dedication – all beings. |
+| Oṃ; hūṃ; svāhā; hoḥ | Common mantra syllables. *Oṃ* opens a sacred formula; *hūṃ* gathers or seals intention; *svāhā* marks offering or fulfilment; and *hoḥ* is a concluding ritual exclamation. Their function is wider than any single English substitute. |
 | Ocean of the Flower Treasury; Lotus Treasury | Vast, interpenetrating Buddha-realms associated especially with Vairocana and the *Flower Adornment Sūtra*. In the liturgy they evoke the cosmic scope of awakening. |
 | One Reality | The single, undivided truth of things as they are, beyond the fragmented way ignorance ordinarily perceives them. |
 | One Vehicle | The Mahāyāna teaching that the Buddha’s various paths ultimately lead toward the one complete awakening of Buddhahood. |
@@ -281,12 +286,14 @@ The sequence is not a claim that every experience must end in craving or aversio
 | Rākṣasa | An ogre-like, often flesh-eating spirit in Buddhist stories. “Rākṣasas of Affliction” personifies destructive mental states as predators. |
 | Rebirth in borderlands; three evils | “Borderlands” is an old Buddhist term for places where the Dharma was believed unavailable; it should not be read as a modern judgment of ethnic worth. “Three evils” here most likely means the three lower realms. |
 | Rebirth in future lives | The continuation of conditioned existence after death through karmic causation. Buddhism generally does not explain it as an unchanged soul moving from body to body. |
+| Rebirth in the Pure Land Dhāraṇī | A Sanskrit-derived purification and aspiration chant honouring Amitābha Tathāgata. Its clearest words refer to homage, Amitābha and the “deathless” nectar of liberation; not every transmitted word has a secure literal translation. |
 | Refuge; Three Refuges; “return our lives in refuge” | Entrusting one’s life and direction to the Buddha as teacher, the Dharma as path, and the Sangha as community. “Return our lives” is a literal, devotional way of saying “take wholehearted refuge.” |
 | Remorse and shame | Healthy recognition of harm: remorse looks honestly at one’s own action, while moral shame includes concern for integrity and the effect on others. The aim is reform, not permanent self-hatred. |
 | Repentance and reform | Acknowledging harmful actions, regretting them, making amends where possible, and resolving not to repeat them. The added word “reform” stresses changed conduct, not confession alone. |
 | Resultative obstruction | Painful circumstances or rebirths understood as matured karmic results that obstruct practice. It is the third of the Three Obstructions. |
 | Retributive body | The present body viewed as a result of past karma and as subject to ageing, illness, and death. |
 | Ritual collective bodhisattva titles: Incense Cloud Canopy, Precious Uḍumbara Blossom, Universal Offering, Pure Cool Ground, Dhyāna Bliss Treasury, and Ascending the Path of Clouds | Devotional names addressing groups of bodhisattvas associated with the particular praise, offering, dedication, or closing action. They need not each be read as the biography of one separately identified historical person. |
+| *Ripa ripate* | The opening of the Seven Buddhas Offence-Extinguishing Mantra. It is a transmitted sound formula rather than an English phrase. The overall purpose is purification and the clearing of karmic obstruction; the individual syllables cannot all be translated responsibly. |
 | Sacred and ordinary beings | “Sacred” means awakened or highly realized beings; “ordinary” means those still governed by ignorance and affliction. |
 | Śakra; Emperor Śakra; Lord of the Devas | The ruler of the Heaven of the Thirty-Three in Buddhist cosmology. He supports the Dharma but remains a conditioned, impermanent celestial being. |
 | Śākyamuni Buddha; our teacher | The historical Buddha of our world, Siddhārtha Gautama, who awakened in India and taught the path followed in Buddhism. |
@@ -305,7 +312,7 @@ The sequence is not a claim that every experience must end in craving or aversio
 | Self-nature | Depending on context, either the mistakenly imagined fixed essence of a person or the deeper awakened nature spoken of in Mahāyāna. It should not be assumed to mean an eternal personal soul. |
 | Sending-Off the Sacred | A closing ritual praise that respectfully concludes the presence or attention of the Buddhas, bodhisattvas, and protectors invoked during the service. |
 | Sentient being | Any being capable of conscious experience and suffering. In Buddhist cosmology this includes humans, animals, devas, ghosts, and hell beings. |
-| Seven Buddhas Offense-Extinguishing Mantra | A purification chant recited at the end of each scroll. The title states its ritual purpose; the syllables themselves are preserved as a phonetic sacred formula. |
+| Seven Buddhas Offense-Extinguishing Mantra | A purification chant recited at the end of each scroll, beginning *ripa ripate*. The title states its reliable ritual purpose; the complete transmitted wording is not secure Classical Sanskrit and should not be forced into a word-for-word English sentence. |
 | Seven Expedient Means | Seven preparatory stages toward direct insight: three broad stages of worthiness followed by Warmth, Summit, Acceptance, and Supreme Attribute. |
 | Seven Factors or Limbs of Awakening | Mindfulness, investigation, energy, joy, tranquility, concentration, and equanimity – qualities cultivated together as awakening develops. |
 | Seven Kinds of Mind | The seven attitudes listed in Scroll One: remorse and shame, fear of consequences, dispassion, bodhi mind, equality toward friends and foes, gratitude for the Buddha’s kindness, and understanding the empty nature of transgressions. |

@@ -207,5 +207,10 @@ Repeated recitation is a training of attention and intention. The number three o
 
 A **mantra** is a sacred formula used to focus and protect the mind. A **dhāraṇī** is a related formula associated with retaining a teaching or invoking a ritual purpose.
 
-The source prints several formulas in romanised Sanskrit or a Sanskrit-derived liturgical form. Their sounds have passed through Indian, Central Asian and Chinese transmission. A neat word-for-word English translation is not always secure. The companion therefore explains what each formula is doing in the ritual and preserves the source spelling for recitation.
+The source prints several formulas in romanised Sanskrit or a Sanskrit-derived liturgical form. A line printed in Latin letters is therefore not necessarily an English translation. It is often a **transliteration**, a way of writing sounds from another language.
 
+Their sounds have passed through Indian, Central Asian and Chinese transmission. Chinese characters were often selected for their approximate sound, and the pronunciation of Chinese then changed over many centuries. A neat word-for-word English translation is not always secure, and a modern reconstruction cannot prove exactly how every ancient reciter sounded.
+
+The companion therefore does four things: preserves the source spelling, gives a gentle English sound cue, identifies words whose meaning is reasonably secure, and explains what the whole formula is doing in the ritual. Where the literal meaning is uncertain, the uncertainty is stated rather than filled with a guess.
+
+In communal chanting, correct practice means following the officiant and the temple's transmitted rhythm. Pronunciation supports recollection, attention and intention; it is not a test of having a perfect foreign accent.

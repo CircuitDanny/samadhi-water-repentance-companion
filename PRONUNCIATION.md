@@ -62,16 +62,75 @@ Capital letters below show the strongest syllable. Hyphens mark comfortable read
 | **dhyāna** | *DYAH-nuh* |
 | **stūpa** | *STOO-puh* |
 
-## Short chant cues
+## Chanting the non-English lines
 
-| Source form | Easy reading cue | Meaning or function |
+The English headings translate the **names and purposes** of the chants. The Latin-letter lines beneath them preserve Sanskrit or Sanskrit-derived sounds. They are transliterations, not badly translated English.
+
+The cues below pronounce the source's Latin-letter form. Fo Guang Shan communal chanting follows its Chinese liturgical transmission, so the pinyin line and the officiant take priority when their sound differs from this cue.
+
+| Small form | Easy reading cue | Meaning or function |
 |---|---|---|
-| **namaḥ / namo** | *NUH-muh / NUH-moh* | Homage, honour or taking refuge. |
-| **oṃ** | *ohm* | A sacred opening syllable in many mantras. |
-| **svāhā** | *SWAH-hah* | A traditional mantra ending, often marking offering or completion. |
-| **gate gate pāragate pārasaṃgate bodhi svāhā** | *GAH-tay GAH-tay PAH-rah-gah-tay PAH-rah-sum-gah-tay BOH-dee SWAH-hah* | The closing mantra of the *Heart Sūtra*. Its common interpretive sense points to going beyond, fully beyond, into awakening. |
+| **namaḥ / namo** | *NAH-mah / NAH-moh* | Homage, honour or taking refuge. |
+| **oṃ** | *ohm* | A sacred opening syllable. |
+| **hūṃ** | *hoom*, ending nasally with the lips together | A forceful mantra syllable used to gather or seal intention. |
+| **svāhā** | *SWAA-hah* | A traditional ending marking offering, fulfilment or completion. |
+| **hoḥ** | *hoh*, ending with a soft breath | A concluding ritual syllable. |
 
-The other dhāraṇīs in the source are best learned by listening to the officiant. Their printed forms reflect a long route of oral and written transmission, so an English cue can easily create more confusion than help.
+### Seven Buddhas Offence-Extinguishing Mantra
+
+**Appears in:** all three scrolls.
+
+> **Source form:** *ripa ripate kuha kuhate tranite nigalate* [[BR]] *vimarite mahāgate jāmlamcamte svāhā* [[BR]] **Easy cue:** *REE-pah REE-pah-tay, KOO-hah KOO-hah-tay, TRAH-nee-tay, NEE-gah-lah-tay; VEE-mah-ree-tay, mah-HAA-gah-tay, JAHM-lahm-CHAHM-tay, SWAA-hah.*
+
+The complete wording is not secure Classical Sanskrit and should not be forced into a word-by-word translation. Its title gives the dependable sense: purification of offences and karmic obstructions through the witness and blessing of the Seven Buddhas. *Mahā* means “great”; *gate* is related to going or having gone; *svāhā* closes the formula.
+
+### Heart Sūtra mantra
+
+**Appears in:** the memorial rites of Scrolls One and Three.
+
+> **Source form:** *gate gate pāragate pārasaṃgate bodhi svāhā* [[BR]] **Easy cue:** *GAH-tay GAH-tay PAA-rah-gah-tay PAA-rah-sung-gah-tay BOH-dhee SWAA-hah.*
+
+A common interpretive sense is “gone, gone, gone beyond, gone completely beyond, awakening, svāhā”. It points beyond fear and clinging, not to physical travel.
+
+### Rebirth in the Pure Land Dhāraṇī
+
+**Appears in:** the memorial rites of Scrolls One and Three.
+
+> **Source form:** *Namo'mitābhāya tathāgatāya tadyathā* [[BR]] *[oṃ] amṛtod bhave amṛta-siddhaṃ bhave* [[BR]] *amṛta-vikrānte amṛta-vikrānta* [[BR]] *gāmini gagana kīrta kāre svāhā* [[BR]] **Easy cue:** *NAH-moh ah-mee-TAA-bhaa-yah tah-THAA-gah-taa-yah tud-yuh-THAA; ohm uh-MRIH-tohd BHAH-vay, uh-MRIH-tah SID-dhum BHAH-vay; uh-MRIH-tah vee-KRAAN-tay, uh-MRIH-tah vee-KRAAN-tah; GAA-mee-nee GAH-gah-nah KEER-tah KAA-ray SWAA-hah.*
+
+The opening means “Homage to Amitābha Tathāgata; thus”. *Amṛta* is “deathless” or “nectar”, and *siddhaṃ* concerns accomplishment. The overall function is purification and aspiration for rebirth in Amitābha's Pure Land. The later transmitted wording is not translated more narrowly than the evidence permits.
+
+### Transformation of Food Dhāraṇī
+
+**Appears in:** the Noon Offering and memorial rites of Scroll One, and the memorial rite of Scroll Three.
+
+> **Source form:** *Namaḥ sarva-tathāgatāvalokite; oṃ sambhara sambhara hūṃ* [[BR]] **Easy cue:** *NAH-mah SAR-vah tah-THAA-gah-TAA-vah-loh-kee-tay; ohm SUM-bha-rah SUM-bha-rah hoom.*
+
+The opening honours all Tathāgatas who behold. The formula expresses gathering, supplying or making the offering abundant so that a limited portion can be offered to innumerable beings.
+
+### Sweet Dew Dhāraṇī
+
+**Appears in:** the Noon Offering and memorial rites of Scroll One, and the memorial rite of Scroll Three.
+
+> **Source form:** *Namaḥ surūpāya tathāgatāya tadyathā; oṃ suru suru pra suru pra suru svāhā* [[BR]] **Easy cue:** *NAH-mah soo-ROO-paa-yah tah-THAA-gah-taa-yah tud-yuh-THAA; ohm SOO-roo SOO-roo prah SOO-roo prah SOO-roo SWAA-hah.*
+
+The opening honours the Beautiful-Form Tathāgata. The repeated *suru* sounds are retained without inventing a separate meaning. “Sweet dew” is deathless nectar, an image of cooling nourishment, Dharma relief and liberation.
+
+### Universal Offering Dhāraṇī
+
+**Appears in:** the Noon Offering and memorial rites of Scroll One, and the memorial rite of Scroll Three.
+
+> **Source form:** *Oṃ gagana sambhava vajra hoḥ* [[BR]] **Easy cue:** *ohm GAH-gah-nah SUM-bha-vah VAJ-rah hoh.*
+
+The recognisable words suggest “arisen from space” and *vajra*, the diamond or thunderbolt symbol of indestructible awakened power. Its ritual purpose is to extend the offering throughout the whole Dharma realm.
+
+### Celestial Kitchen Praise formula
+
+**Appears in:** the Noon Offering of Scroll One.
+
+> **Source form:** *Oṃ suru-sarva tathāgata tadyathā suru svāhā* [[BR]] **Easy cue:** *ohm SOO-roo SAR-vah tah-THAA-gah-tah tud-yuh-THAA SOO-roo SWAA-hah.*
+
+*Sarva tathāgata* means “all Tathāgatas” and *tadyathā* means “thus”. The *suru* sounds are preserved. The formula consecrates and universally directs the food offering.
 
 ## A small Vietnamese name bridge
 
@@ -92,7 +151,12 @@ Vietnamese tones matter, and the cues below are deliberately rough. Northern and
 
 ### Nam Mô A Di Đà Phật
 
-**Rough cue:** *nahm moh ah zee-dah fuht*, with southern **Di** often nearer *yee*.
+**Rough cue:** *nahm moh ah zee-dah fuht*, with Southern **Di** often nearer *yee*. *Phật* ends in a short, unreleased “t”.
 
 **Meaning:** “Homage to Amitābha Buddha” or “I take refuge in Amitābha Buddha”. It is a Vietnamese form of Buddha-name recitation. Listen and follow the local temple's rhythm and tones rather than forcing the English cue.
 
+The related Mandarin form is often written **Namo Amituofo**, approximately *nah-moh ah-mee-twoh-foh*. Both forms recollect Amitābha and express an aspiration towards **Sukhāvatī**, his Western Pure Land or Buddha-field. This is not simply the next level of the six realms or an eternal heaven. It is presented as an exceptionally supportive place in which practice continues without retrogression.
+
+Pure Land liturgy pictures the nine grades of lotus blossoms as one's parents. In this imagery, a person is reborn through transformation from a lotus rather than gestated in a womb. The opening blossom represents seeing Amitābha, hearing the Dharma and awakening to non-arising.
+
+> **A popular devotional image:** Some later Pure Land teaching materials say that faith, vows, name-recitation and practice nourish a lotus in Sukhāvatī associated with the practitioner, sometimes pictured as bearing the practitioner's name. This is not stated in the Water Repentance or the shorter *Amitābha Sūtra*. It is a visual way of expressing that the direction cultivated now is believed to mature as lotus birth in the Pure Land.
