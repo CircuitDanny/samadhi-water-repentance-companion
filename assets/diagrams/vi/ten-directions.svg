@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Mười phương trong Phật giáo</title>
+  <desc id="desc">Tám hướng quanh người tu cùng với phương trên và phương dưới hợp thành mười phương.</desc>
+  <defs>
+    <radialGradient id="field" cx="38%" cy="48%" r="67%">
+      <stop offset="0" stop-color="#ffffff" />
+      <stop offset="1" stop-color="#e8f4f0" />
+    </radialGradient>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#2c6d68" />
+    </marker>
+  </defs>
+  <rect width="1600" height="900" rx="40" fill="#f8f4e9" />
+  <rect x="52" y="52" width="1496" height="796" rx="30" fill="url(#field)" stroke="#9bc7bd" stroke-width="4" />
+
+  <g fill="none" stroke="#9bc7bd" stroke-width="3" opacity="0.72">
+    <circle cx="580" cy="450" r="300" />
+    <circle cx="580" cy="450" r="210" />
+    <circle cx="580" cy="450" r="116" />
+  </g>
+
+  <g stroke="#2c6d68" stroke-width="7" marker-end="url(#arrow)">
+    <line x1="580" y1="450" x2="580" y2="118" />
+    <line x1="580" y1="450" x2="815" y2="215" />
+    <line x1="580" y1="450" x2="912" y2="450" />
+    <line x1="580" y1="450" x2="815" y2="685" />
+    <line x1="580" y1="450" x2="580" y2="782" />
+    <line x1="580" y1="450" x2="345" y2="685" />
+    <line x1="580" y1="450" x2="248" y2="450" />
+    <line x1="580" y1="450" x2="345" y2="215" />
+  </g>
+
+  <g font-family="Arial, sans-serif" text-anchor="middle" fill="#153f3c">
+    <text x="580" y="94" font-size="29" font-weight="700">BẮC</text>
+    <text x="858" y="184" font-size="27" font-weight="700">ĐÔNG BẮC</text>
+    <text x="984" y="460" font-size="29" font-weight="700">ĐÔNG</text>
+    <text x="858" y="730" font-size="27" font-weight="700">ĐÔNG NAM</text>
+    <text x="580" y="832" font-size="29" font-weight="700">NAM</text>
+    <text x="302" y="730" font-size="27" font-weight="700">TÂY NAM</text>
+    <text x="176" y="460" font-size="29" font-weight="700">TÂY</text>
+    <text x="302" y="184" font-size="27" font-weight="700">TÂY BẮC</text>
+  </g>
+
+  <circle cx="580" cy="450" r="86" fill="#153f3c" />
+  <g font-family="Arial, sans-serif" text-anchor="middle" fill="#ffffff">
+    <text x="580" y="441" font-size="22" font-weight="700">ĐIỂM NHÌN</text>
+    <text x="580" y="473" font-size="20">người tu</text>
+  </g>
+
+  <rect x="1080" y="128" width="380" height="642" rx="28" fill="#ffffff" stroke="#9bc7bd" stroke-width="4" />
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <text x="1270" y="185" font-size="25" letter-spacing="3" font-weight="700" fill="#153f3c">TRỤC ĐỨNG</text>
+    <line x1="1270" y1="655" x2="1270" y2="255" stroke="#2c6d68" stroke-width="8" marker-end="url(#arrow)" />
+    <circle cx="1270" cy="455" r="52" fill="#153f3c" />
+    <text x="1270" y="449" font-size="18" font-weight="700" fill="#ffffff">ĐIỂM</text>
+    <text x="1270" y="473" font-size="18" font-weight="700" fill="#ffffff">NHÌN</text>
+    <rect x="1130" y="223" width="280" height="78" rx="39" fill="#b7783e" />
+    <text x="1270" y="272" font-size="29" font-weight="700" fill="#ffffff">TRÊN</text>
+    <rect x="1130" y="609" width="280" height="78" rx="39" fill="#b7783e" />
+    <text x="1270" y="658" font-size="29" font-weight="700" fill="#ffffff">DƯỚI</text>
+    <text x="1270" y="732" font-size="22" fill="#526c69">thêm hai phương</text>
+  </g>
+
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <text x="800" y="874" font-size="23" font-weight="700" fill="#153f3c">TÁM HƯỚNG + TRÊN VÀ DƯỚI = MƯỜI PHƯƠNG</text>
+  </g>
+</svg>

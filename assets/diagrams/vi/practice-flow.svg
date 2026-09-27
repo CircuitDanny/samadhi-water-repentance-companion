@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-labelledby="title desc">
+  <title id="title">Trình tự tu tập trong Quyển Một</title>
+  <desc id="desc">Bảy bước nối tiếp: chuẩn bị, quy y, nhận lỗi, hiểu nguyên nhân, nguyện sửa đổi, vun bồi trí tuệ và hồi hướng.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eef8f5" /><stop offset="1" stop-color="#f8f1e4" /></linearGradient>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#2c6d68" /></marker>
+    <style>.t{font:700 24px Arial,sans-serif;fill:#153f3c}.s{font:18px Arial,sans-serif;fill:#35514f}.n{font:700 18px Arial,sans-serif;fill:#fff}.box{fill:#fff;stroke:#70a8a0;stroke-width:2}</style>
+  </defs>
+  <rect width="1200" height="460" rx="28" fill="url(#bg)" />
+  <text x="600" y="55" text-anchor="middle" class="t">Trình tự tu tập trong Quyển Một</text>
+  <g stroke="#2c6d68" stroke-width="4" fill="none" marker-end="url(#arrow)">
+    <path d="M220 145 H315" /><path d="M480 145 H575" /><path d="M740 145 H835" />
+    <path d="M930 195 V260" /><path d="M835 315 H740" /><path d="M575 315 H480" /><path d="M315 315 H220" />
+  </g>
+  <g>
+    <rect class="box" x="55" y="95" width="165" height="100" rx="18" /><circle cx="75" cy="95.0" r="18" fill="#2c6d68" /><text x="75" y="102.0" text-anchor="middle" class="n">1</text><text x="138" y="135" text-anchor="middle" class="t">Chuẩn bị</text><text x="138" y="166" text-anchor="middle" class="s">thân và tâm</text>
+    <rect class="box" x="315" y="95" width="165" height="100" rx="18" /><circle cx="335" cy="95.0" r="18" fill="#2c6d68" /><text x="335" y="102.0" text-anchor="middle" class="n">2</text><text x="398" y="135" text-anchor="middle" class="t">Quy y</text><text x="398" y="166" text-anchor="middle" class="s">chọn hướng đi</text>
+    <rect class="box" x="575" y="95" width="165" height="100" rx="18" /><circle cx="595" cy="95.0" r="18" fill="#2c6d68" /><text x="595" y="102.0" text-anchor="middle" class="n">3</text><text x="658" y="135" text-anchor="middle" class="t">Nhận lỗi</text><text x="658" y="166" text-anchor="middle" class="s">không che giấu</text>
+    <rect class="box" x="835" y="95" width="310" height="100" rx="18" /><circle cx="855" cy="95.0" r="18" fill="#2c6d68" /><text x="855" y="102.0" text-anchor="middle" class="n">4</text><text x="990" y="135" text-anchor="middle" class="t">Hiểu nguyên nhân</text><text x="990" y="166" text-anchor="middle" class="s">phiền não, nghiệp và quả</text>
+    <rect class="box" x="835" y="265" width="310" height="100" rx="18" /><circle cx="855" cy="265.0" r="18" fill="#b7783e" /><text x="855" y="272.0" text-anchor="middle" class="n">5</text><text x="990" y="305" text-anchor="middle" class="t">Nguyện và sửa đổi</text><text x="990" y="336" text-anchor="middle" class="s">tạo các duyên mới</text>
+    <rect class="box" x="575" y="265" width="165" height="100" rx="18" /><circle cx="595" cy="265.0" r="18" fill="#b7783e" /><text x="595" y="272.0" text-anchor="middle" class="n">6</text><text x="658" y="305" text-anchor="middle" class="t">Trí tuệ</text><text x="658" y="336" text-anchor="middle" class="s">thấy tánh không</text>
+    <rect class="box" x="315" y="265" width="165" height="100" rx="18" /><circle cx="335" cy="265.0" r="18" fill="#b7783e" /><text x="335" y="272.0" text-anchor="middle" class="n">7</text><text x="398" y="305" text-anchor="middle" class="t">Hồi hướng</text><text x="398" y="336" text-anchor="middle" class="s" style=";font-size:17.87px">vì mọi chúng sanh</text>
+    <rect x="55" y="265" width="165" height="100" rx="50" fill="#153f3c" /><text x="138" y="305" text-anchor="middle" class="t" fill="#fff" style="fill:#fff">Tiếp tục</text><text x="138" y="336" text-anchor="middle" class="s" fill="#fff" style="fill:#dcefeb">trong đời sống</text>
+  </g>
+  <text x="600" y="425" text-anchor="middle" class="s" style=";font-size:5.71px">Sám hối trọn vẹn khi sự hiểu biết làm thay đổi cách sống.</text>
+</svg>

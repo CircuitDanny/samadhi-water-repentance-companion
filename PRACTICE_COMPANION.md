@@ -2,7 +2,7 @@
 
 ## An explained companion to Scroll One
 
-**Prepared by Daniel Franjkovic**  
+**Prepared by Daniel Franjkovic**\
 <daniel.franjkovic@outlook.com.au>
 
 For other Buddhist terms, visit the [Fo Guang Shan International Translation Center Glossary](https://www.fgsitc.org/glossary/).
@@ -15,7 +15,9 @@ Read “The Buddhist world behind the words” first if the terms karma, Pure La
 
 Source-page references use the PDF page number. The smaller printed number inside the liturgy starts later and is different.
 
-> **In simple terms**  
+You do not need to stop chanting to resolve every unfamiliar term. Before a section, read **What is happening?** and **What to attend to**. During the liturgy, notice the movement from naming a problem to making a constructive vow. Return to the fuller notes afterwards. Instructions for communal movement and timing still come from the officiant.
+
+> **In simple terms**\
 > The practice asks: What has caused harm? Can I admit it without hiding? What conditions fed it? What will I do differently? How can the benefit of that change include others?
 
 ## What the title means
@@ -31,6 +33,15 @@ Source-page references use the PDF page number. The smaller printed number insid
 ![The movement through Scroll One](assets/diagrams/practice-flow.svg)
 
 The ritual is not simply a long confession. It moves from reverence and attention to honest acknowledgement, analysis of causes, vows, wisdom and dedication.
+
+| Movement | Question carried into practice |
+|---|---|
+| Prefaces and Wuda narrative | Why can acknowledged harm be changed? |
+| Praise, visualisation and offering | What quality of attention am I bringing? |
+| Refuge and collective confession | What have body, speech and mind been serving? |
+| Three obstructions and seven minds | What caused the harm, what followed, and what attitude supports repair? |
+| Affliction lists and vows | Which recurring pattern needs a wholesome replacement? |
+| Mantra, offering and memorial dedication | How can any benefit extend beyond me? |
 
 # Guide to Scroll One
 
@@ -49,6 +60,19 @@ The preface gives the reader a moral frame before the chanting begins: actions h
 ### What does it mean?
 
 “Samādhi water” is both story and metaphor. The water cleanses because it is joined with collected awareness, truthfulness and change. The point is not that ordinary water magically deletes the past.
+
+### Difficult wording on this page
+
+| Source phrase | Plain-English reading | Reading caution |
+|---|---|---|
+| “proper sensation” | A settled awareness that does not chase or indulge sensory experience | This is the edition's unusual gloss for *samādhi*, not a standard definition of a bodily sensation. |
+| “no part of it remains cleansed” | Washing leaves no part **uncleansed** | The next two comparisons say that no dirt or impurity remains. “Cleansed” is therefore an apparent typographical error in the English source. |
+| “square inch of space” | Moral change is located in the intimate work of mind or heart | The English syntax is compressed, so the guide does not claim a more exact technical meaning. |
+| “specs of dust” | Specks of dust, used to suggest an incalculable number | This is another apparent English typo, not a special Buddhist term. |
+
+### What to attend to
+
+Notice that all three washing comparisons involve action. Water is available, but the body, garment or vessel is actually washed. In the same way, repentance includes recognition and a change of conduct, not a declaration that consequences have vanished.
 
 ### Beginner notes
 
@@ -73,7 +97,9 @@ The story makes invisible patterns visible. Pride weakens vigilance. Kindness cr
 
 The tumour represents unresolved harm that cannot be escaped by status, learning or denial. Wuda's healing is not only the removal of pain. It is reconciliation with a being presented as his enemy across lives.
 
-> **Historical note**  
+The story names the earlier opponents as Yuan Yang and Yao Cuo. It is not necessary to remember the court history to follow the ethical point: one person's past participation in another's death becomes a grievance, and neither prestige nor avoidance resolves it. Care shown to the sick monk later becomes the condition through which help arrives.
+
+> **Historical note**\
 > The Wuda account is the liturgy's traditional explanation. Modern scholarship finds the exact authorship uncertain and notes that versions of the attribution were questioned in medieval China. The guide treats the story as a sacred origin narrative, not verified medical history.
 
 ### Beginner notes
@@ -81,6 +107,10 @@ The tumour represents unresolved harm that cannot be escaped by status, learning
 - **Kāmalā disease** is an old medical term associated with jaundice and severe illness.
 - **Honoured Kanaka** is the mysterious awakened helper in the narrative. The text does not give a historically verifiable biography.
 - The story assumes rebirth and karmic continuity. It should not be used to blame an ill person for unknown past conduct.
+
+> **Read illness responsibly**
+>
+> The source uses a frightening illness inside a sacred origin story. It does not provide a method for diagnosing why a particular person is ill. Respond to illness with care, treatment and practical support. Do not turn another person's pain into speculation about guilt.
 
 ## 3. Prostrations and the True Incense Praise
 
@@ -98,7 +128,11 @@ The body enters the practice before the main confession begins. Prostration soft
 
 The real offering is not smoke alone. Ethical conduct and a steady mind are the fragrance the practitioner is asked to cultivate.
 
-> **Look for this in a temple**  
+### What to attend to
+
+Let the first bows mark a change of pace. The useful question is not whether the movement looks perfect, but whether body and attention arrive together. If you are studying privately, pause long enough to notice defensiveness, hurry or distraction before continuing.
+
+> **Look for this in a temple**\
 > Three prostrations often express complete homage to the Buddha, Dharma and Sangha. Follow the officiant's pace if attending a service.
 
 ## 4. Retelling the Wuda story
@@ -112,6 +146,8 @@ A formal verse retells the origin story in elevated ritual language. It moves fr
 ### Why is it done?
 
 Repetition changes the story from background information into contemplation. Practitioners are invited to recognise their own pride, grudges and hidden patterns.
+
+The elevated wording can be difficult to parse. On source page 8, the sentence beginning “The Honored One practiced kindness” is grammatically incomplete in English. Its surrounding lines still make the ritual movement clear: the awakened response benefits beings, the illness is presented as provisional or dreamlike, and the old grievance is brought to the cleansing water. The guide does not silently invent a missing subject or verb.
 
 ### Beginner notes
 
@@ -137,8 +173,12 @@ The scene should not be read like a newspaper report. It is sacred imagery that 
 
 The six perfections are generosity, ethical discipline, patience, diligent effort, meditation and wisdom.
 
-> **Why this matters**  
+> **Why this matters**\
 > Repentance is incomplete if it only looks backward. Samantabhadra asks what vow and practice will replace the harmful pattern.
+
+### What to attend to
+
+Do not try to construct every visual detail at once. Choose one feature and its quality: steady strength in the elephant, practical commitment in Samantabhadra's vows, or wisdom in the light. Then ask what that quality would change in the next ordinary decision you make.
 
 ## 6. Refuge and universal offering
 
@@ -155,6 +195,8 @@ Taking refuge establishes the direction of the practice. The universal offering 
 ### What does it mean?
 
 The language in which every offering contains all offerings reflects the Flower Adornment vision of interdependence. A small sincere act can participate in a much wider field of benefit.
+
+This is the first major widening of the scroll. The Wuda story begins with one feud and one healing; the offering now reaches the ten directions. The transition teaches that personal repair is not sealed off from the welfare of others.
 
 ### Beginner notes
 
@@ -181,6 +223,10 @@ Ritual boundaries help the mind stop treating the words as ordinary reading. Kne
 
 The Seven Ancient Buddhas then situate the practice in a lineage of awakening extending beyond one historical age.
 
+### What to attend to
+
+The source repeatedly asks that body, speech and mind become pure. Read “pure” here as freed from the harmful direction being confessed. A useful review is concrete: what did the body do, what did speech communicate, and what intention or assumption drove them?
+
 ## 8. Opening confession and Buddha-name litany
 
 **Source pages 19 to 23**
@@ -197,8 +243,14 @@ Naming patterns weakens concealment. Reciting awakened names provides a contrast
 
 The passage uses “we” and covers more wrongdoing than any one reader may have committed. Communal repentance is deliberately comprehensive. A practitioner can acknowledge the pattern without making a false personal confession.
 
-> **Reading responsibly**  
+> **Reading responsibly**\
 > Do not mechanically claim an action you did not commit. Attend to the forms of harm that genuinely apply, the social conditions that allow harm and the commitment to prevent it.
+
+Collective confession works at three levels. You can acknowledge conduct you personally recognise, remain alert to ways you benefit from or fail to interrupt wider harm, and cultivate concern for actions committed by beings generally. None of these requires a false admission. If a line does not describe you, let it train recognition and prevention rather than forcing a private memory to fit it.
+
+### What to attend to
+
+When the litany shifts to Buddha and bodhisattva names, notice the change in emotional direction. The assembly has named confusion and harm, then turns towards qualities that make another response possible. Refuge is not a way to avoid repair. It supplies a model, teaching and community for carrying it out.
 
 ### Beginner notes
 
@@ -228,6 +280,14 @@ This turns a catalogue of faults into a diagnosis. If a practitioner sees only t
 - A **result** is the consequence and further conditioning that follow.
 
 Each can feed the next. The cycle can also be interrupted at every point through mindfulness, restraint, repair, wisdom and supportive conditions.
+
+| Everyday sequence | Where practice can interrupt it |
+|---|---|
+| Resentment is rehearsed until it feels justified | Name the affliction and check the story being repeated. |
+| A cutting message is drafted and sent | Pause, do not send it, and choose truthful speech that does not humiliate. |
+| Trust is damaged and more resentment follows | Acknowledge impact, apologise without excuses, repair what can be repaired and change the conditions for recurrence. |
+
+The three obstructions are a diagnostic sequence, not a claim that every painful event can be traced to one visible fault. Many conditions interact, and the liturgy does not give a practitioner grounds to judge another person's suffering.
 
 ## 10. The seven kinds of mind
 
@@ -263,6 +323,12 @@ Equality means equal concern for awakening and freedom from suffering. It does n
 
 The text says transgressions arise and cease through conditions. This is not an escape from accountability. It explains why accountability can lead to change.
 
+### What to attend to
+
+The seven minds are meant to correct one another. Concern about consequences without compassion can become panic. Emptiness without remorse can become evasion. Equality without boundaries can expose someone to further harm. A balanced reading holds responsibility, the possibility of change and care for everyone affected.
+
+The phrase “permanence, bliss, self-nature, and purity” on source page 28 uses affirmative Mahāyāna language for the realised freedom of a Buddha's nirvāṇa. “Self-nature” here should not be read as the ordinary ego becoming eternal. The surrounding aspiration is towards wisdom, a purified Buddha-field and benefit to beings.
+
 ## 11. Repentance for the obstruction of afflictions
 
 **Source pages 32 to 42**
@@ -289,6 +355,17 @@ Treat them as a map of comprehensiveness, not a memory test. A few groups deserv
 
 The glossary explains every named group at the level the source supports. It marks lists whose exact members vary or are not supplied.
 
+| Source label | Useful reading during the liturgy | Caution |
+|---|---|---|
+| Eight Defilements, page 37 | Mental stains that cloud clear awareness | The source does not enumerate a definitive eight here, so do not force one later list into the passage. |
+| Nine Conditions, page 38 | The many supports through which confused consciousness and action arise | It may refer to a technical analysis of sensory consciousness, but the exact intended list is disputed. |
+| Three Vows, page 39 | A compact aspiration that wrongdoing be replaced by liberating aims | The three are not named in the English text. Several Buddhist triads share this title. |
+| 108 afflictions, pages 38 and 41 | A comprehensive count for the many ways the mind becomes troubled | The practice point is breadth, not arithmetic mastery. |
+
+### What to attend to
+
+Listen for the repeated grammar: “because of” a disturbed condition, harmful actions occur; “through the merits” of repentance, a positive capacity is sought. That pattern is more important for a beginner than remembering every number. Choose one recognised pattern and pair it with one replacement, such as envy with appreciative joy, agitation with steady attention, or stinginess with a planned act of generosity.
+
 ### From confession to vows
 
 The numerical confession is answered by positive aspirations: wisdom, faith, the six perfections, the factors of awakening and the bodhisattva grounds. This structure matters. The practitioner does not merely remove a fault but develops a capacity that makes recurrence less likely.
@@ -311,11 +388,17 @@ The courtroom scene dramatizes unavoidable accountability. Enemies testify about
 
 Traditionally, Yama is a ruler or judge connected with the realms of the dead. He is not an all-powerful creator and Buddhist hell is not eternal. Some readers also understand the scene as a psychological image of actions returning through memory, habit, fear and damaged relationships.
 
+The scene also explains why the scroll places reform before death imagery. Family, status and possessions cannot perform an ethical choice on someone else's behalf. The practical emphasis is to repair while there is time, not to become absorbed in guessing a future sentence.
+
 ### The four elements, five aggregates and six senses
 
 The text compares the four elements to snakes, the five aggregates to bandits and the six senses to an empty formation. These are warnings against clinging. They do not teach hatred of the body or the senses.
 
 The positive conclusion is the Noble Eightfold Path: right view, intention, speech, action, livelihood, effort, mindfulness and concentration.
+
+“The six senses as a formation of emptiness” is awkward source wording. It does not mean that sight, hearing or touch should be hated or destroyed. The senses, their objects and the resulting consciousness arise through conditions and contain no permanent owner. That makes them workable: contact can be noticed before it hardens into grasping or aversion.
+
+The source prints “Dhama Body” on page 40 in the phrase “Five Parts [of the Dhama Body]”. This is an apparent typo for **Dharma Body**. The five parts are ethical discipline, concentration, wisdom, liberation, and knowledge or vision of liberation.
 
 ## 13. Seven Buddhas mantra and exiting repentance
 
@@ -335,6 +418,10 @@ The source provides a Sanskrit-derived recitation rather than a prose translatio
 
 Dedication includes Dharma protectors, spirits, living relatives, ancestors, friends, enemies and all beings. The aspiration to the Pure Land gives this shared benefit a direction towards awakening.
 
+### What to attend to
+
+Let the exit prayer gather the whole scroll into one movement: causes have been examined, responsibility has been taken, and the benefit is released. If you noticed a specific repair during the confession, write it down after the service so that dedication does not replace follow-through.
+
 ### Why these words are not English
 
 The English heading names the chant, but the line beneath it is a **transliteration**, meaning sacred sounds written in the Latin alphabet. These sounds began in an Indic language, were represented phonetically with Chinese characters, and were then transmitted through centuries of Chinese Buddhist chanting. The Chinese characters in this part often represent sound rather than an ordinary Chinese sentence.
@@ -345,7 +432,9 @@ This is why a line such as *ripa ripate* looks like English letters but is not E
 
 **Where:** source PDF page 51, printed page 45.
 
-> **Source form:** *ripa ripate kuha kuhate tranite nigalate* [[BR]] *vimarite mahāgate jāmlamcamte svāhā* [[BR]] **Easy cue:** *REE-pah REE-pah-tay, KOO-hah KOO-hah-tay, TRAH-nee-tay, NEE-gah-lah-tay; VEE-mah-ree-tay, mah-HAA-gah-tay, JAHM-lahm-CHAHM-tay, SWAA-hah.*
+> **Source form:** *ripa ripate kuha kuhate tranite nigalate*\
+> *vimarite mahāgate jāmlamcamte svāhā*\
+> **Easy cue:** *REE-pah REE-pah-tay, KOO-hah KOO-hah-tay, TRAH-nee-tay, NEE-gah-lah-tay; VEE-mah-ree-tay, mah-HAA-gah-tay, JAHM-lahm-CHAHM-tay, SWAA-hah.*
 
 **What it means:** There is no responsible word-for-word translation of the whole formula. *Mahā* means “great”, *gate* is related to going or having gone, and *svāhā* is a traditional ending that seals or completes a mantra. Its Chinese title gives the reliable overall meaning: a mantra of the Seven Buddhas for extinguishing offences.
 
@@ -367,11 +456,14 @@ Food, one of life's basic supports, becomes a practice of gratitude and impartia
 
 “Transformation” and “sweet dew” express abundance and relief. The physical portion may be limited, but the vow to nourish and include beings is not.
 
+The transition from confession to food offering is deliberate. Ethical practice is tested in how life's supports are received and shared. Notice gratitude for the people, labour and living systems that made the meal possible, then widen the wish from “may I be fed” to “may beings have what supports life and practice”.
+
 ### Chant guide: Transformation of Food Dhāraṇī
 
 **Where:** source PDF page 57, printed page 51. It is repeated on source pages 61-62 in the memorial rite.
 
-> **Source form:** *Namaḥ sarva-tathāgatāvalokite; oṃ sambhara sambhara hūṃ* [[BR]] **Easy cue:** *NAH-mah SAR-vah tah-THAA-gah-TAA-vah-loh-kee-tay; ohm SUM-bha-rah SUM-bha-rah hoom.*
+> **Source form:** *Namaḥ sarva-tathāgatāvalokite; oṃ sambhara sambhara hūṃ*\
+> **Easy cue:** *NAH-mah SAR-vah tah-THAA-gah-TAA-vah-loh-kee-tay; ohm SUM-bha-rah SUM-bha-rah hoom.*
 
 **Plain meaning:** “Homage to all the Tathāgatas who behold”, followed by a formula calling the offering to be gathered, supplied or made abundant. *Hūṃ* is a forceful closing syllable and is gently nasalised.
 
@@ -381,7 +473,8 @@ Food, one of life's basic supports, becomes a practice of gratitude and impartia
 
 **Where:** source PDF page 57, printed page 51. It is repeated on source page 62.
 
-> **Source form:** *Namaḥ surūpāya tathāgatāya tadyathā; oṃ suru suru pra suru pra suru svāhā* [[BR]] **Easy cue:** *NAH-mah soo-ROO-paa-yah tah-THAA-gah-taa-yah tud-yuh-THAA; ohm SOO-roo SOO-roo prah SOO-roo prah SOO-roo SWAA-hah.*
+> **Source form:** *Namaḥ surūpāya tathāgatāya tadyathā; oṃ suru suru pra suru pra suru svāhā*\
+> **Easy cue:** *NAH-mah soo-ROO-paa-yah tah-THAA-gah-taa-yah tud-yuh-THAA; ohm SOO-roo SOO-roo prah SOO-roo prah SOO-roo SWAA-hah.*
 
 **Plain meaning:** The opening honours the Beautiful-Form Tathāgata and introduces the formula with “thus”. The repeated *suru* sounds do not have a secure separate English meaning here. “Sweet dew” translates *amṛta*, the deathless nectar used as an image of Dharma relief and liberation.
 
@@ -391,7 +484,8 @@ Food, one of life's basic supports, becomes a practice of gratitude and impartia
 
 **Where:** source PDF page 58, printed page 52. It is repeated on source page 62.
 
-> **Source form:** *Oṃ gagana sambhava vajra hoḥ* [[BR]] **Easy cue:** *ohm GAH-gah-nah SUM-bha-vah VAJ-rah hoh.*
+> **Source form:** *Oṃ gagana sambhava vajra hoḥ*\
+> **Easy cue:** *ohm GAH-gah-nah SUM-bha-vah VAJ-rah hoh.*
 
 **Plain meaning:** The recoverable words suggest “born or arisen from space” and *vajra*, the diamond or thunderbolt symbol of indestructible awakened power. *Hoḥ* is a concluding ritual syllable. The formula is better understood by its function than forced into a complete English sentence.
 
@@ -401,7 +495,8 @@ Food, one of life's basic supports, becomes a practice of gratitude and impartia
 
 **Where:** source PDF page 58, printed page 52.
 
-> **Source form:** *Oṃ suru-sarva tathāgata tadyathā suru svāhā* [[BR]] **Easy cue:** *ohm SOO-roo SAR-vah tah-THAA-gah-tah tud-yuh-THAA SOO-roo SWAA-hah.*
+> **Source form:** *Oṃ suru-sarva tathāgata tadyathā suru svāhā*\
+> **Easy cue:** *ohm SOO-roo SAR-vah tah-THAA-gah-tah tud-yuh-THAA SOO-roo SWAA-hah.*
 
 **Plain meaning and purpose:** *Sarva tathāgata* means “all Tathāgatas” and *tadyathā* means “thus”. The *suru* sounds are retained rather than guessed at. Within the praise, the line consecrates the food offering and directs it towards all Buddhas and beings.
 
@@ -430,11 +525,16 @@ Avalokiteśvara sees that the five aggregates are empty of independent essence a
 
 This does not say that people or grief are unreal. It says they arise through conditions and cannot be possessed as permanent, separate things.
 
+### What to attend to
+
+The memorial sequence holds grief and wisdom together. Bring the deceased to mind without trying to manufacture a particular feeling. The practice offers remembrance, recitation and a direction towards awakening; it does not ask the mourner to deny loss or claim certainty about a person's present state.
+
 ### Chant guide: Heart Sūtra mantra
 
 **Where:** source PDF page 61, printed page 55.
 
-> **Source form:** *gate gate pāragate pārasaṃgate bodhi svāhā* [[BR]] **Easy cue:** *GAH-tay GAH-tay PAA-rah-gah-tay PAA-rah-sung-gah-tay BOH-dhee SWAA-hah.*
+> **Source form:** *gate gate pāragate pārasaṃgate bodhi svāhā*\
+> **Easy cue:** *GAH-tay GAH-tay PAA-rah-gah-tay PAA-rah-sung-gah-tay BOH-dhee SWAA-hah.*
 
 **Plain meaning:** A common interpretive rendering is “gone, gone, gone beyond, gone completely beyond, awakening, svāhā”. It is not a command to travel physically. It points to wisdom crossing beyond clinging and fixed concepts.
 
@@ -444,7 +544,8 @@ This does not say that people or grief are unreal. It says they arise through co
 
 **Where:** source PDF page 61, printed page 55.
 
-> **Source form:** *Namo'mitābhāya tathāgatāya tadyathā; [oṃ] amṛtod bhave amṛta-siddhaṃ bhave; amṛta-vikrānte amṛta-vikrānta; gāmini gagana kīrta kāre svāhā* [[BR]] **Easy cue:** *NAH-moh ah-mee-TAA-bhaa-yah tah-THAA-gah-taa-yah tud-yuh-THAA; ohm uh-MRIH-tohd BHAH-vay, uh-MRIH-tah SID-dhum BHAH-vay; uh-MRIH-tah vee-KRAAN-tay, uh-MRIH-tah vee-KRAAN-tah; GAA-mee-nee GAH-gah-nah KEER-tah KAA-ray SWAA-hah.*
+> **Source form:** *Namo'mitābhāya tathāgatāya tadyathā; [oṃ] amṛtod bhave amṛta-siddhaṃ bhave; amṛta-vikrānte amṛta-vikrānta; gāmini gagana kīrta kāre svāhā*\
+> **Easy cue:** *NAH-moh ah-mee-TAA-bhaa-yah tah-THAA-gah-taa-yah tud-yuh-THAA; ohm uh-MRIH-tohd BHAH-vay, uh-MRIH-tah SID-dhum BHAH-vay; uh-MRIH-tah vee-KRAAN-tay, uh-MRIH-tah vee-KRAAN-tah; GAA-mee-nee GAH-gah-nah KEER-tah KAA-ray SWAA-hah.*
 
 **Plain meaning:** The opening is clear: “Homage to Amitābha Tathāgata; thus”. *Amṛta* means “deathless” and also “nectar”, while *siddhaṃ* concerns accomplishment. Later words suggest powerful advance, going and space, but the transmitted grammar is not secure enough for a confident full translation.
 
@@ -481,3 +582,5 @@ After reading a section, use four short questions:
 4. **What will replace it?** Make a specific vow and build conditions that support it.
 
 Then dedicate any benefit beyond yourself. This is the ethical movement at the heart of Scroll One.
+
+For a recurring pattern, make the replacement observable. “Be kinder” is hard to test. “Wait ten minutes before replying when angry”, “repay the amount on Friday”, or “ask before sharing someone else's story” creates a condition that can actually support reform.

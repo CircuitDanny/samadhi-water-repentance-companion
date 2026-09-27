@@ -4,12 +4,27 @@ Scroll Three completes the Water Repentance. It examines damaged relationships w
 
 This guide explains the English translation without reproducing the full liturgy. Page numbers refer to Fo Guang Shan Hsi Lai Temple's 2022 electronic edition.
 
+Read the explanation for a section before following those pages in the source. During the rite, listen for the turn from feared result to compassionate transformation. The severe catalogues are not the last word: each is answered by refuge, a counter-vow or dedication. Follow the officiant for communal actions and pacing.
+
 ## Before beginning
 
 - Scroll Three assumes the work of Scrolls One and Two. Affliction has been recognised, harmful actions confessed and positive vows established.
 - Its descriptions of hells and rebirth belong to traditional Buddhist moral cosmology and ritual imagery. Some Buddhists read the realms primarily as objective rebirth destinations, some also use them as descriptions of states of mind, and many allow both levels.
 - The aim of the severe imagery is urgency followed by transformation. The vows repeatedly turn prisons into Pure Lands, weapons into jewels and suffering into conditions for awakening.
 - The memorial altar extends the practice to deceased people and other beings through recitation, offerings and dedication of merit.
+- The source often links a form of suffering with past karma. This is its traditional ritual worldview, not evidence for diagnosing the cause of a real person's illness, disability, poverty, bereavement or abuse.
+
+## The movement of Scroll Three
+
+| Movement | Why it follows |
+|---|---|
+| Lamp and entry prayer | The final session begins by bringing light to difficult consequences. |
+| Triple Gem confession | The practitioner repairs their relationship with the sources of guidance. |
+| Everyday conduct | Respect becomes concrete in livelihood, restraint and community life. |
+| Resultative obstruction | The effects of action and the urgency of impermanence come into view. |
+| Realms and residual results | Compassion is extended across every painful condition. |
+| Universal and memorial dedication | The practice is released towards living and deceased beings. |
+| Hsing Yun prayer and final verse | The completed rite returns to daily conduct and society. |
 
 # Guide to Scroll Three
 
@@ -31,6 +46,10 @@ Light represents awareness and wisdom. At the beginning of the final scroll, the
 - **Dīpaṃkara**, whose name is associated with lamp light, is a Buddha of the distant past. Traditional accounts say that he predicted a future Buddhahood for the person who would become Śākyamuni.
 - Lamps offered at an altar commonly symbolise the wish that wisdom dispel ignorance.
 
+### What to attend to
+
+The lamp does not deny darkness; it makes response possible. At the opening of this scroll, notice whether fear causes avoidance, fascination or care. The praise directs attention towards seeing clearly enough to act compassionately.
+
 ## 2. Prayer of Entering Repentance
 
 **Source pages 4-7**
@@ -49,6 +68,12 @@ The language links the third scroll with several Buddhist triads: the three karm
 - The **three bodies** describe Buddhahood as truth or reality, transcendent enjoyment and compassionate manifestation.
 - The **three realms** are the desire, form and formless realms within saṃsāra.
 - The **four immeasurables** are loving-kindness, compassion, appreciative joy and equanimity.
+
+**Reading note:** the English “our third practice, our third cleansing” on page 4 renders the Chinese idiom **三熏三沐**, literally three perfumings and three bathings. It expresses repeated preparation as a mark of reverence, rather than naming a technical meditation called “the third practice”. The third scroll is named separately later in the prayer. This distinction follows the Chinese source and the [Taiwan Ministry of Education dictionary's explanation of the idiom](https://dict.revised.moe.edu.tw/dictView.jsp?ID=144708&la=0&powerMode=0).
+
+### What to attend to
+
+The repeated triads make the whole person answerable. Body, speech and mind are gathered; different paths and realms are included; different dimensions of Buddhahood are invoked. The practical question is whether the ritual words, physical conduct and underlying intention agree.
 
 ## 3. Repairing the Relationship with the Triple Gem
 
@@ -74,6 +99,16 @@ Buddhist statues, books and buildings are not creator gods. They are supports fo
 
 The vows refer to a community living harmoniously through shared bodily conduct, speech, intention, ethical discipline, understanding and use of resources. The precise wording varies across Buddhist sources, but the purpose is stable: practise together without rivalry and misuse.
 
+### Ordinary ways the relationship is repaired
+
+| Relationship | A present-day example of care |
+|---|---|
+| Buddha | Handle an image respectfully and remember that its purpose is awakening, not decoration or status. |
+| Dharma | Quote a teaching accurately, include its context and correct an error once discovered. |
+| Sangha | Avoid gossip that divides a community, use donated resources for their stated purpose and raise genuine concerns through responsible channels. |
+
+Respect does not require concealing misconduct by a teacher or institution. Protecting people, keeping accurate records and seeking proper accountability can be ways of honouring the Dharma and Sangha.
+
 > **Why this matters**
 > Refuge is a lived relationship. Respect for the Triple Gem is shown through how teachings are handled, how communities are treated and whether practice is used honestly.
 
@@ -92,9 +127,15 @@ The text identifies remorse and shame as two protective qualities, then confesse
 
 They are not permanent self-condemnation. They are the capacity to feel an ethical boundary and change direction.
 
+The source says that a person without remorse and shame is no different from birds and beasts. This is forceful premodern rhetoric about moral heedlessness. It should not be used to dehumanise a person or demean animals. Its workable point is that recognising a boundary helps prevent further harm.
+
+A related Mahāyāna source pairs sincere confession with the resolve not to repeat the act and uses cleansing-water imagery for shame and restraint. See BDK America's [*The Mahayana Sutra of Previous Lives and Contemplation of the Mind-ground*](https://bdkamerica.org/wp-content/uploads/2021/08/dBET_T0159_Previous-Lives_2021.pdf), pp. 72–74 of the translated text.
+
 ### Five pungent vegetables
 
 Some East Asian monastic traditions avoid garlic, onions and related pungent plants, especially in periods of formal practice. Traditional explanations link their smell or stimulating effect with ritual purity and mental agitation. This discipline is distinct from the general lay precepts.
+
+In the immediate source context, the concern includes strong odour around scriptures, images and the assembled community. Do not turn this passage into a universal medical claim or assume that every Buddhist follows the same dietary rule.
 
 ### Improper livelihood
 
@@ -103,6 +144,10 @@ The passage applies ethics to earning and receiving resources. It includes deali
 ### The positive vow
 
 The assembly vows to be kind, loyal, filial, humble, patient and careful with the senses and three karmas. Repentance is again completed by describing the conduct that should replace the fault.
+
+### What to attend to
+
+Translate an inherited virtue into safe, ethical conduct. Filial care can mean gratitude and practical support, but it does not require submitting to abuse. Loyalty does not mean hiding wrongdoing. Humility does not mean erasing one's needs. The vows are directed towards reduced harm and greater wisdom.
 
 ## 5. Resultative Obstructions and Impermanence
 
@@ -124,8 +169,14 @@ The text recalls a celestial being whose signs of approaching death are reversed
 
 The example of a highly accomplished meditator later falling into an animal birth warns that concentration alone is not final liberation. Temporary mastery of a subtle state is not the same as ending ignorance and rebirth.
 
+The passage reports this as a teaching given to Subhadra about his teacher Udrakarāmaputra. It is a traditional example inside the liturgy, not a historically verified biography supplied by this guide.
+
 > **In simple terms**
 > Do not confuse a comfortable condition, high status or unusual meditation experience with complete freedom.
+
+### Urgency without panic
+
+The death reflection is meant to loosen postponement. It does not require predicting death, abandoning treatment or making reckless decisions. A grounded response is to complete a repair, clarify a will or responsibility, renew practice and give attention to someone while the opportunity exists.
 
 ## 6. Avīci and the Hell Realms
 
@@ -149,9 +200,17 @@ Recognised Buddhist readings include:
 
 These readings can overlap. The liturgy itself treats the realms as karmic realities while also using them as moral images.
 
+The great walls, distances and durations signal overwhelming scale. Units such as the **yojana** are ancient and vary by source, so converting the numbers into a precise modern map would create false accuracy.
+
+Some readers may find the graphic descriptions distressing. It is reasonable to pause, ground attention and return with support. The practice purpose is not to rehearse violence for its own sake, but to recognise the gravity of cruelty and strengthen the wish that suffering end.
+
 ### The decisive movement
 
 The confession does not delight in punishment. Its vow is that Avīci become a Pure Land, instruments of torture become sources of peace and every suffering being encounter liberation.
+
+### What to attend to
+
+Keep listening until the transformation vow. A reading that stops at punishment misses the section's direction. The assembly imagines walls removed, weapons changed, wardens compassionate and beings able to hear the Dharma. Fear is converted into a programme of liberation.
 
 ## 7. Animals, Hungry Ghosts, Spirits and Asuras
 
@@ -168,6 +227,8 @@ After another Buddha-name litany, the text considers painful results associated 
 | **Troubled spirits** | Distortion, insecurity and harmful livelihood | Honesty, beauty of character and benefit to others |
 | **Asuras** | Conflict, jealousy and aggressive competition | Equanimity, non-deception and peace |
 
+The source also associates ghosts, spirits and asuras with “hideousness” and deception. This is inherited karmic and aesthetic language. It must not be reversed into the claim that a person's appearance reveals character or past wrongdoing.
+
 ### Contentment
 
 The section begins by contrasting desire with contentment. A person may possess little and still experience ease, or live in luxury and remain dissatisfied. Contentment does not mean refusing improvement. It means freedom from the belief that one more possession will finally make grasping secure.
@@ -175,6 +236,10 @@ The section begins by contrasting desire with contentment. A person may possess 
 ### Returning by vow
 
 The assembly vows not to fall helplessly into the lower realms, while allowing for compassionate return by a bodhisattva who deliberately enters difficult conditions to help beings.
+
+### What to attend to
+
+Each realm highlights a pattern that can be recognised without claiming that the realm is only psychological: fear and domination, unsatisfied craving, deception, or competitive anger. Pair recognition with the source's counter-practice. For example, notice one form of compulsive consumption and practise enoughness, or notice a rivalry and refuse the next deceptive move.
 
 ## 8. Residual Results Among Humans and Devas
 
@@ -196,6 +261,19 @@ Deva existence is pleasurable but impermanent. When its supporting karma is exha
 
 The list is a communal confession within a traditional karmic worldview. Its practice purpose is compassion and urgency, not the confident diagnosis of any particular person's misfortune.
 
+This caution is especially important because the source places disability, chronic illness, poverty, separation, disaster and hostile relationships inside its catalogue of “residual retributions”. The passage tells practitioners to repent and cultivate compassionate conditions. It does not authorise them to tell a disabled, ill or bereaved person that they caused their situation in a past life.
+
+| Source pattern, pages 37–40 | Responsible reading |
+|---|---|
+| Illness or shortened life listed as karmic result | Receive this as the liturgy's general moral cosmology; use medical care and do not infer personal guilt. |
+| Disability or an incomplete sense faculty listed as result | Do not treat disability as moral evidence or a person as spiritually deficient. Remove barriers and respond with respect. |
+| Poverty, failed plans or separation listed as result | Material, social and interpersonal causes still matter. Offer practical help rather than a karmic verdict. |
+| Conflict within families or relationships | Accountability belongs with harmful conduct. A victim is not responsible for another person's abuse. |
+
+### What to attend to
+
+Let the list widen compassion rather than narrow it into suspicion. Where the source names hunger, danger, exclusion or illness, ask what support can be offered now. The doctrine of karma does not cancel medicine, social responsibility, protection or grief.
+
 ## 9. Universal Vows and Dedication
 
 **Source pages 41-43**
@@ -208,9 +286,15 @@ The merits of repenting the three obstructions are dedicated to all beings. The 
 
 Sukhāvatī is sought as an exceptionally supportive field for hearing the Dharma and advancing without ordinary obstacles. It is not merely a reward of celestial pleasure. Its purpose is the completion of the path for the benefit of beings.
 
+The sequence matters. After surveying painful realms, the text does not settle for a more pleasant temporary rebirth. It seeks a Buddha-field where practice can continue without ordinary regression, then extends that aspiration to all beings.
+
 ### Endless dedication
 
 The formula that dedication will continue until space, beings, karma and affliction end echoes Samantabhadra's vast vows. Because these fields are treated as immeasurable, the commitment is effectively without limit.
+
+### What to attend to
+
+Dedication changes possession into participation. Rather than treating merit as a private spiritual balance, the assembly wishes that whatever is wholesome becomes a condition for safety, understanding and awakening throughout the Dharma realm.
 
 ## 10. Final Mantra and Prayer of Exiting Repentance
 
@@ -224,6 +308,8 @@ The Seven Buddhas mantra seals the main repentance. The assembly then reviews th
 
 The review gathers a long multi-session ritual into one field of merit. It also acknowledges that outward completion is not enough if the confession was insincere, so the assembly asks to repent once more.
 
+This final review is an integrity check, not an invitation to endless self-doubt. Ask whether attention, words and conduct were reasonably aligned. If not, recognise the gap, renew the intention and continue without pretending that repetition itself guarantees change.
+
 ### Why “ripa ripate” is not English
 
 The English heading names the chant, but the line beneath it is a **transliteration**, meaning sacred sounds written in the Latin alphabet. The sounds began in an Indic language, were represented phonetically with Chinese characters, and were then transmitted through centuries of Chinese Buddhist chanting. The Chinese characters in this part often represent sound rather than an ordinary Chinese sentence.
@@ -234,7 +320,9 @@ Some Sanskrit elements remain recognisable, while other syllables cannot be tran
 
 **Where:** source PDF page 43, printed page 41.
 
-> **Source form:** *ripa ripate kuha kuhate tranite nigalate* [[BR]] *vimarite mahāgate jāmlamcamte svāhā* [[BR]] **Easy cue:** *REE-pah REE-pah-tay, KOO-hah KOO-hah-tay, TRAH-nee-tay, NEE-gah-lah-tay; VEE-mah-ree-tay, mah-HAA-gah-tay, JAHM-lahm-CHAHM-tay, SWAA-hah.*
+> **Source form:** *ripa ripate kuha kuhate tranite nigalate*\
+> *vimarite mahāgate jāmlamcamte svāhā*\
+> **Easy cue:** *REE-pah REE-pah-tay, KOO-hah KOO-hah-tay, TRAH-nee-tay, NEE-gah-lah-tay; VEE-mah-ree-tay, mah-HAA-gah-tay, JAHM-lahm-CHAHM-tay, SWAA-hah.*
 
 **What it means:** There is no responsible word-for-word translation of the whole formula. *Mahā* means “great”, *gate* is related to going or having gone, and *svāhā* is a traditional ending that seals or completes a mantra. Its Chinese title gives the reliable overall meaning: a mantra of the Seven Buddhas for extinguishing offences.
 
@@ -263,6 +351,8 @@ Amitābha is invoked as the guide and receiver of the Western Pure Land. In East
 
 The Heart Sūtra teaches that the five aggregates and all phenomena are empty of independent, permanent essence. In a memorial setting, this wisdom loosens fearful attachment to fixed identity while compassion continues to care for the deceased.
 
+The pairing is deliberate: Amitābha gives the memorial aspiration a compassionate destination, while the *Heart Sūtra* prevents the mourner from turning any person or state into a fixed possession. Neither element asks for certainty about where a particular deceased person has gone.
+
 ### The four dhāraṇī functions
 
 | Recitation | Ritual purpose |
@@ -278,7 +368,8 @@ Dhāraṇī syllables should be learned from the temple's liturgical text and so
 
 **Where:** source PDF page 49, printed page 47.
 
-> **Source form:** *gate gate pāragate pārasaṃgate bodhi svāhā* [[BR]] **Easy cue:** *GAH-tay GAH-tay PAA-rah-gah-tay PAA-rah-sung-gah-tay BOH-dhee SWAA-hah.*
+> **Source form:** *gate gate pāragate pārasaṃgate bodhi svāhā*\
+> **Easy cue:** *GAH-tay GAH-tay PAA-rah-gah-tay PAA-rah-sung-gah-tay BOH-dhee SWAA-hah.*
 
 **Plain meaning and purpose:** A common interpretive rendering is “gone, gone, gone beyond, gone completely beyond, awakening, svāhā”. It condenses the Heart Sūtra's movement beyond fear, clinging and fixed concepts.
 
@@ -286,7 +377,8 @@ Dhāraṇī syllables should be learned from the temple's liturgical text and so
 
 **Where:** source PDF page 49, printed page 47.
 
-> **Source form:** *Namo'mitābhāya tathāgatāya tadyathā; [oṃ] amṛtod bhave amṛta-siddhaṃ bhave; amṛta-vikrānte amṛta-vikrānta; gāmini gagana kīrta kāre svāhā* [[BR]] **Easy cue:** *NAH-moh ah-mee-TAA-bhaa-yah tah-THAA-gah-taa-yah tud-yuh-THAA; ohm uh-MRIH-tohd BHAH-vay, uh-MRIH-tah SID-dhum BHAH-vay; uh-MRIH-tah vee-KRAAN-tay, uh-MRIH-tah vee-KRAAN-tah; GAA-mee-nee GAH-gah-nah KEER-tah KAA-ray SWAA-hah.*
+> **Source form:** *Namo'mitābhāya tathāgatāya tadyathā; [oṃ] amṛtod bhave amṛta-siddhaṃ bhave; amṛta-vikrānte amṛta-vikrānta; gāmini gagana kīrta kāre svāhā*\
+> **Easy cue:** *NAH-moh ah-mee-TAA-bhaa-yah tah-THAA-gah-taa-yah tud-yuh-THAA; ohm uh-MRIH-tohd BHAH-vay, uh-MRIH-tah SID-dhum BHAH-vay; uh-MRIH-tah vee-KRAAN-tay, uh-MRIH-tah vee-KRAAN-tah; GAA-mee-nee GAH-gah-nah KEER-tah KAA-ray SWAA-hah.*
 
 **Plain meaning:** The opening is clear: “Homage to Amitābha Tathāgata; thus”. *Amṛta* means “deathless” and also “nectar”, while *siddhaṃ* concerns accomplishment. Later words suggest powerful advance, going and space, but the transmitted grammar is not secure enough for a confident full translation.
 
@@ -296,7 +388,8 @@ Dhāraṇī syllables should be learned from the temple's liturgical text and so
 
 **Where:** source PDF pages 49-50, printed pages 47-48.
 
-> **Source form:** *Namaḥ sarva-tathāgatāvalokite; oṃ sambhara sambhara hūṃ* [[BR]] **Easy cue:** *NAH-mah SAR-vah tah-THAA-gah-TAA-vah-loh-kee-tay; ohm SUM-bha-rah SUM-bha-rah hoom.*
+> **Source form:** *Namaḥ sarva-tathāgatāvalokite; oṃ sambhara sambhara hūṃ*\
+> **Easy cue:** *NAH-mah SAR-vah tah-THAA-gah-TAA-vah-loh-kee-tay; ohm SUM-bha-rah SUM-bha-rah hoom.*
 
 **Plain meaning and purpose:** “Homage to all the Tathāgatas who behold”, followed by a formula calling the offering to be gathered, supplied or made abundant. It imaginatively transforms a limited portion into an offering sufficient for innumerable beings.
 
@@ -304,7 +397,8 @@ Dhāraṇī syllables should be learned from the temple's liturgical text and so
 
 **Where:** source PDF page 50, printed page 48.
 
-> **Source form:** *Namaḥ surūpāya tathāgatāya tadyathā; oṃ suru suru pra suru pra suru svāhā* [[BR]] **Easy cue:** *NAH-mah soo-ROO-paa-yah tah-THAA-gah-taa-yah tud-yuh-THAA; ohm SOO-roo SOO-roo prah SOO-roo prah SOO-roo SWAA-hah.*
+> **Source form:** *Namaḥ surūpāya tathāgatāya tadyathā; oṃ suru suru pra suru pra suru svāhā*\
+> **Easy cue:** *NAH-mah soo-ROO-paa-yah tah-THAA-gah-taa-yah tud-yuh-THAA; ohm SOO-roo SOO-roo prah SOO-roo prah SOO-roo SWAA-hah.*
 
 **Plain meaning and purpose:** The opening honours the Beautiful-Form Tathāgata. The repeated *suru* sounds do not have a secure separate English meaning here. The chant expresses the wish that the offering become cooling “deathless nectar”, bringing nourishment, Dharma relief and liberation.
 
@@ -312,7 +406,8 @@ Dhāraṇī syllables should be learned from the temple's liturgical text and so
 
 **Where:** source PDF page 50, printed page 48.
 
-> **Source form:** *Oṃ gagana sambhava vajra hoḥ* [[BR]] **Easy cue:** *ohm GAH-gah-nah SUM-bha-vah VAJ-rah hoh.*
+> **Source form:** *Oṃ gagana sambhava vajra hoḥ*\
+> **Easy cue:** *ohm GAH-gah-nah SUM-bha-vah VAJ-rah hoh.*
 
 **Plain meaning and purpose:** The recoverable words suggest “born or arisen from space” and *vajra*, the diamond or thunderbolt symbol of indestructible awakened power. The chant extends the offering throughout the whole Dharma realm.
 
@@ -327,6 +422,10 @@ Reciting the name recollects Amitābha and voices the wish to be reborn after th
 ### Sending off the sacred
 
 The rite concludes by thanking and respectfully releasing the invoked assembly. This gives a clear boundary to the ritual encounter.
+
+### What to attend to
+
+If a particular deceased person is in mind, dedicate without trying to force a sign or emotional experience. The rite supplies words, offerings and a direction of care. Grief may remain, and that is compatible with sincere practice.
 
 ## 12. Venerable Master Hsing Yun's Prayer
 
@@ -350,6 +449,8 @@ The prayer connects the medieval liturgy with Fo Guang Shan's Humanistic Buddhis
 ### The final pathway
 
 The prayer asks practitioners to use kindness and compassion to beautify life, joy and equanimity to improve society, precepts and meditation to regulate conduct, and wisdom to purify the mind. It is a concise programme for carrying the ritual into ordinary action.
+
+The prayer carries the practice into social responsibility through kindness, compassion, joy, equanimity and the cleansing of enmity. As practical applications of the wider three-scroll ethic, this companion suggests caring for vulnerable people, refusing exploitation, using resources responsibly and contributing to peace. These examples are reading aids, not a quoted list from the prayer.
 
 ## 13. Final Verse of Dedication
 
@@ -376,3 +477,5 @@ The liturgy is not limited to one narrow method. It brings together meditation, 
 | Hsing Yun prayer | Carry repentance into daily life and society. |
 
 Scroll Three's final message is transformation. Nothing harmful is denied, but no being is reduced forever to a harmful action or painful realm. Confession becomes vow, fear becomes urgency, offering becomes boundless and the merit of practice is released for the welfare and awakening of all.
+
+After the final dedication, identify one result you can help change in the present: a damaged relationship that can be repaired safely, a material need you can support, a community resource you can protect, or a pattern of cruelty you can stop feeding. This gives the scroll's vast vows a concrete next condition.

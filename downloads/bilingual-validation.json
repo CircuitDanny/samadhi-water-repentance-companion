@@ -1,0 +1,16 @@
+{
+  "file": "04-master-english-vietnamese-edition.pdf",
+  "complete": true,
+  "pages": 232,
+  "sha256": "a15f3e4cae2213ba2578c090b622c3e2b471ff114abba6f3e8fe033da691c4f6",
+  "source_blocks_checked": {
+    "en": 2646,
+    "vi": 2646
+  },
+  "missing": [],
+  "pair_records": 111,
+  "annotations": 514,
+  "outline_destinations": 274,
+  "errors": [],
+  "render_folder": "C:\\Users\\Danie\\Documents\\ChatGPT\\Buddah\\repositories\\samadhi-water-repentance-companion\\tmp\\pdfs\\final\\04-master-english-vietnamese-edition"
+}

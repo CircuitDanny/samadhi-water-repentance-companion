@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="710" viewBox="0 0 1200 710" role="img" aria-labelledby="title desc">
+  <title id="title">Sáu căn</title><desc id="desc">Mỗi căn, trần tương ứng và thức tương ứng gặp nhau thì có xúc.</desc>
+  <defs><style>.h{font:700 30px Arial,sans-serif;fill:#153f3c}.th{font:700 20px Arial,sans-serif;fill:#fff}.t{font:19px Arial,sans-serif;fill:#153f3c}.s{font:16px Arial,sans-serif;fill:#35514f}.row{fill:#fff;stroke:#b8d3cd;stroke-width:1.5}</style></defs>
+  <rect width="1200" height="710" rx="28" fill="#f7f2e7" /><text x="600" y="53" text-anchor="middle" class="h">Sáu căn</text><text x="600" y="84" text-anchor="middle" class="s">căn + trần + thức = xúc</text>
+  <g transform="translate(75 115)">
+    <rect width="1050" height="54" rx="14" fill="#2c6d68" /><text x="130" y="35" text-anchor="middle" class="th">Căn</text><text x="470" y="35" text-anchor="middle" class="th">Trần</text><text x="830" y="35" text-anchor="middle" class="th">Thức</text>
+    <g transform="translate(0 68)"><rect class="row" width="1050" height="70" rx="12" /><text x="130" y="43" text-anchor="middle" class="t">Mắt</text><text x="470" y="43" text-anchor="middle" class="t">hình sắc</text><text x="830" y="43" text-anchor="middle" class="t">nhãn thức</text></g>
+    <g transform="translate(0 146)"><rect class="row" width="1050" height="70" rx="12" /><text x="130" y="43" text-anchor="middle" class="t">Tai</text><text x="470" y="43" text-anchor="middle" class="t">âm thanh</text><text x="830" y="43" text-anchor="middle" class="t">nhĩ thức</text></g>
+    <g transform="translate(0 224)"><rect class="row" width="1050" height="70" rx="12" /><text x="130" y="43" text-anchor="middle" class="t">Mũi</text><text x="470" y="43" text-anchor="middle" class="t">mùi</text><text x="830" y="43" text-anchor="middle" class="t">tỷ thức</text></g>
+    <g transform="translate(0 302)"><rect class="row" width="1050" height="70" rx="12" /><text x="130" y="43" text-anchor="middle" class="t">Lưỡi</text><text x="470" y="43" text-anchor="middle" class="t">vị</text><text x="830" y="43" text-anchor="middle" class="t">thiệt thức</text></g>
+    <g transform="translate(0 380)"><rect class="row" width="1050" height="70" rx="12" /><text x="130" y="43" text-anchor="middle" class="t">Thân</text><text x="470" y="43" text-anchor="middle" class="t">xúc chạm, áp lực, nhiệt độ</text><text x="830" y="43" text-anchor="middle" class="t">thân thức</text></g>
+    <g transform="translate(0 458)"><rect class="row" width="1050" height="70" rx="12" fill="#eef8f5" /><text x="130" y="43" text-anchor="middle" class="t" font-weight="700">Ý</text><text x="470" y="33" text-anchor="middle" class="t">ý nghĩ, ký ức, hình ảnh</text><text x="470" y="56" text-anchor="middle" class="s">và các đối tượng tâm khác</text><text x="830" y="43" text-anchor="middle" class="t">ý thức</text></g>
+  </g>
+  <text x="600" y="680" text-anchor="middle" class="s">Sáu căn, sáu trần và sáu thức hợp lại gọi là mười tám giới.</text>
+</svg>

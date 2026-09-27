@@ -7,6 +7,9 @@
   <circle cx="275" cy="190" r="105" fill="#a44f45"/><text x="275" y="180" text-anchor="middle" class="t">Affliction</text><text x="275" y="213" text-anchor="middle" class="w">greed, aversion,</text><text x="275" y="238" text-anchor="middle" class="w">ignorance</text>
   <circle cx="825" cy="190" r="105" fill="#b7783e"/><text x="825" y="178" text-anchor="middle" class="t">Karma</text><text x="825" y="211" text-anchor="middle" class="w">intentional action</text><text x="825" y="236" text-anchor="middle" class="w">of body, speech, mind</text>
   <circle cx="550" cy="405" r="105" fill="#526c8d"/><text x="550" y="395" text-anchor="middle" class="t">Result</text><text x="550" y="428" text-anchor="middle" class="w">consequence and</text><text x="550" y="453" text-anchor="middle" class="w">further conditioning</text>
-  <rect x="430" y="190" width="240" height="95" rx="20" fill="#fff" stroke="#70a8a0" stroke-width="2"/><text x="550" y="224" text-anchor="middle" class="h" font-size="23">Practice interrupts</text><text x="550" y="253" text-anchor="middle" class="s">mindfulness • restraint • repair</text><text x="550" y="277" text-anchor="middle" class="s">wisdom • supportive conditions</text>
+  <rect x="405" y="185" width="290" height="104" rx="20" fill="#fff" stroke="#70a8a0" stroke-width="2"/>
+  <text x="550" y="217" text-anchor="middle" style="font:700 23px Arial,sans-serif;fill:#153f3c">Practice interrupts</text>
+  <text x="550" y="249" text-anchor="middle" style="font:16px Arial,sans-serif;fill:#35514f">mindfulness • restraint • repair</text>
+  <text x="550" y="274" text-anchor="middle" style="font:16px Arial,sans-serif;fill:#35514f">wisdom • supportive conditions</text>
 </svg>
 

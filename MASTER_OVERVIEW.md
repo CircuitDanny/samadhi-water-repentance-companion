@@ -2,6 +2,17 @@
 
 This master edition brings the three practice companions, core concepts, illustrated figure profiles, pronunciation guide and glossary into one volume. Use the short visual maps here before entering the detailed material.
 
+## A first-time route through the companion
+
+You do not need to read the volume from front to back before attending or studying the service.
+
+1. Read the three-scroll journey below so you know where the liturgy is going.
+2. Use the companion for the scroll being practised and read its “What is happening” and “Why it matters” notes beside the source text.
+3. When a sacred name recurs, use **Buddhas and bodhisattvas in the three scrolls** for identity, relationships and practice relevance. The opening comparison table is enough for a first encounter.
+4. Use the **Pronunciation guide** before chanting and follow the officiant during communal practice. Use the **Glossary** when a hard term affects the meaning of a passage.
+
+Three editorial signals help you judge what you are reading. **Canonical account** identifies a story found in a cited Buddhist scripture. **Traditional account** identifies a recognised religious narrative without presenting it as modern historical biography. **Reading note** explains difficult or uncertain source wording without claiming to correct the official liturgy.
+
 ## How the three scrolls work together
 
 ![The three-scroll practice journey](assets/diagrams/three-scroll-journey.svg)
@@ -57,3 +68,11 @@ A **Buddha** has completed awakening. A **bodhisattva** follows the path to Budd
 The names are invoked to orient the mind towards awakened qualities and vows. They are not presented as creator gods who erase responsibility for harmful action.
 
 > **Reading tip:** use this chart for quick recognition. The illustrated profiles later in the volume explain each figure's name, appearance, story, pronunciation and connection to the Water Repentance.
+
+### Three distinctions that prevent common mix-ups
+
+| Do not collapse these together | Practical distinction |
+|---|---|
+| **A Buddha and a bodhisattva** | A Buddha has completed awakening. A bodhisattva is committed to full awakening for all beings. Maitreya is the main apparent exception because the liturgy anticipates his future Buddhahood. |
+| **A recognition cue and a fixed portrait** | A sword, vase, stūpa, elephant or hand gesture can help identify a figure, but regional images vary. The figure profiles state where an identification is secure and where it is only a useful cue. |
+| **Invoking help and surrendering responsibility** | Homage, refuge and name-recitation gather the mind around an awakened quality or vow. The repentance still requires honest disclosure, restraint, repair and changed conduct. |

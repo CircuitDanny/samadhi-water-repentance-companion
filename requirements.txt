@@ -1,0 +1,6 @@
+reportlab>=4.2,<5
+Pillow>=10,<13
+pypdf>=5,<7
+markdown-it-py>=3,<5
+pdfplumber>=0.11,<1
+resvg-py>=0.5,<1

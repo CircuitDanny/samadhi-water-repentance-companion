@@ -1,6 +1,6 @@
 # The Buddhist world behind the words
 
-These are the ideas a beginner needs before reading or chanting Scroll One.
+These are the ideas a beginner needs before reading or chanting Scroll One. For the identity, stories and visual cues of named figures, go to **Buddhas and bodhisattvas in the three scrolls**. For a hard word in one passage, the alphabetical **Beginner glossary** is usually the faster route.
 
 ## Who was the Buddha?
 
@@ -16,6 +16,31 @@ The Water Repentance honours Śākyamuni as “our teacher”, while also naming
 | **Bodhisattva** | One committed to awakening for the benefit of all beings. The word can refer to a great figure such as Avalokiteśvara or to anyone genuinely following the bodhisattva path. |
 | **Arhat** | A disciple who has overcome the causes of rebirth and attained liberation. Mahāyāna texts honour arhats while presenting full Buddhahood as the universal bodhisattva goal. |
 | **Sentient being** | Any being capable of experience and suffering. In Buddhist cosmology this includes more than humans and animals. |
+
+### Why the liturgy names so many figures
+
+The repeated names create an awakened assembly before which confession and vows are made. They also bring different qualities into view: Śākyamuni as teacher, Mañjuśrī as wisdom, Avalokiteśvara as compassion, Samantabhadra as enacted vows, Kṣitigarbha as steadfast care and Amitābha as Pure Land aspiration.
+
+Three actions can look similar on the page:
+
+| Action | What it does in this practice |
+|---|---|
+| **Homage** | Expresses respect and turns attention towards awakening. |
+| **Refuge** | Commits the practitioner to the Buddha, Dharma and Sangha as a direction of life and practice. |
+| **Name-recitation or invocation** | Recollects a Buddha or bodhisattva and the qualities, vows or field of practice associated with that name. |
+
+None of these means asking a creator god to erase the results of conduct. Their place in repentance is relational and practical: the practitioner stops hiding, remembers a wiser direction and makes a vow to act differently.
+
+### Historical, cosmic and future language
+
+The guide uses several descriptions of Buddhahood without treating them as competing biographies:
+
+- **Śākyamuni** is the historical teacher of this world and age.
+- **Vairocana** expresses all-pervading illumination and the Dharma-body dimension of Buddhahood.
+- **Maitreya** is a bodhisattva now and the expected future Buddha of this world.
+- **Buddhas of other worlds**, such as Amitābha and Medicine Master, are presented with their own Buddha-fields and vows in Mahāyāna tradition.
+
+This is why “Buddha” in the Water Repentance can mean more than the historical life of Siddhārtha Gautama, while “our teacher” refers specifically to Śākyamuni.
 
 ## The Triple Gem
 
@@ -105,6 +130,14 @@ Pure Land practice commonly includes trusting Amitābha's vows, reciting his nam
 ### Is the Pure Land one of the six realms?
 
 Not in the ordinary sense. The six realms describe conditioned rebirth driven by karma and affliction. Amitābha's Pure Land is presented in Mahāyāna sources as a Buddha-field oriented towards non-retrogression and liberation. Traditions differ in how they describe its ultimate status, but it should not be reduced to “Buddhist heaven”.
+
+| Place named in the figure profiles | What it means here |
+|---|---|
+| **Tuṣita Heaven** | A deva realm within saṃsāra where Maitreya is traditionally understood to dwell before his future birth and awakening. |
+| **Sukhāvatī in the west** | Amitābha's Pure Land, shaped by his vows as an exceptionally supportive field for progress towards awakening. |
+| **Medicine Master's eastern pure land** | The Buddha-field associated with Medicine Master Buddha and his vows. It is distinct from Amitābha's Sukhāvatī. |
+
+Direction in these devotional descriptions helps distinguish Buddha-fields and ritual relationships. It is not a modern astronomical map.
 
 ## Repentance and reform
 

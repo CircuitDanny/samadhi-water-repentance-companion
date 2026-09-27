@@ -1,0 +1,63 @@
+{
+  "edition": "Expanded companion edition, September 2026",
+  "glossary_entries": 389,
+  "outputs": [
+    {
+      "file": "01-scroll-one-practice-companion.pdf",
+      "pages": 20,
+      "source_files": [
+        "PRACTICE_COMPANION.md",
+        "REFERENCES.md"
+      ]
+    },
+    {
+      "file": "02-scroll-two-practice-companion.pdf",
+      "pages": 16,
+      "source_files": [
+        "SCROLL_TWO_COMPANION.md",
+        "REFERENCES.md"
+      ]
+    },
+    {
+      "file": "03-scroll-three-practice-companion.pdf",
+      "pages": 17,
+      "source_files": [
+        "SCROLL_THREE_COMPANION.md",
+        "REFERENCES.md"
+      ]
+    },
+    {
+      "file": "04-master-print-edition.pdf",
+      "pages": 110,
+      "source_files": [
+        "MASTER_OVERVIEW.md",
+        "STARTING_PRACTICE.md",
+        "PRACTICE_COMPANION.md",
+        "SCROLL_TWO_COMPANION.md",
+        "SCROLL_THREE_COMPANION.md",
+        "CONCEPTS.md",
+        "FIGURES.md",
+        "PRONUNCIATION.md",
+        "GLOSSARY.md",
+        "REFERENCES.md"
+      ]
+    },
+    {
+      "file": "05-buddhas-and-bodhisattvas-guide.pdf",
+      "pages": 22,
+      "source_files": [
+        "FIGURES.md",
+        "REFERENCES.md"
+      ]
+    },
+    {
+      "file": "06-glossary-reference.pdf",
+      "pages": 32,
+      "source_files": [
+        "GLOSSARY.md",
+        "PRONUNCIATION.md",
+        "REFERENCES.md"
+      ]
+    }
+  ]
+}
