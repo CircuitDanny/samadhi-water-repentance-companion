@@ -13,6 +13,23 @@ The collection explains what each major section is doing, why it is chanted, whi
 
 All print-ready resources are kept together in the [`downloads`](downloads/) folder.
 
+### October 2026 English–Vietnamese Edition
+
+The expanded collection places each short English passage immediately above its corresponding Vietnamese passage. English uses deep teal and Vietnamese uses warm bronze, with the companion's cream background, gold accents and illustrated theme. These books include closer reading notes, clearly labelled reflections and everyday applications, matching source-section identifiers, new learning diagrams and editable Word versions.
+
+| Resource | Pages | PDF | Editable Word |
+|---|---:|---|---|
+| Complete master guide | 292 | [Download PDF](downloads/english-vietnamese-collection/master-guide-english-vietnamese-edition.pdf) | [Download DOCX](downloads/english-vietnamese-collection/master-guide-english-vietnamese-edition.docx) |
+| Companion to Scroll One | 49 | [Download PDF](downloads/english-vietnamese-collection/companion-scroll-1-english-vietnamese-edition.pdf) | [Download DOCX](downloads/english-vietnamese-collection/companion-scroll-1-english-vietnamese-edition.docx) |
+| Companion to Scroll Two | 42 | [Download PDF](downloads/english-vietnamese-collection/companion-scroll-2-english-vietnamese-edition.pdf) | [Download DOCX](downloads/english-vietnamese-collection/companion-scroll-2-english-vietnamese-edition.docx) |
+| Companion to Scroll Three | 42 | [Download PDF](downloads/english-vietnamese-collection/companion-scroll-3-english-vietnamese-edition.pdf) | [Download DOCX](downloads/english-vietnamese-collection/companion-scroll-3-english-vietnamese-edition.docx) |
+
+The master retains the illustrated Buddhas and bodhisattvas profiles, pronunciation material, core practice guidance and all 389 glossary entries. It also explains how to distinguish scripture, traditional explanation and optional reflection. Consequential source ambiguities and name differences are documented separately from the liturgy.
+
+New Vietnamese commentary uses respectful standard spelling and Buddhist vocabulary familiar to Southern readers. New translation and editorial work was prepared with AI assistance and checked against the supplied sources. This is an independent educational collection; it does not claim monastic review or official temple approval. [Edition and printing notes](downloads/english-vietnamese-collection/README.md).
+
+### Earlier English resources
+
 | Resource | Pages | Best use |
 |---|---:|---|
 | [Scroll One Practice Companion](downloads/01-scroll-one-practice-companion.pdf) | 20 | Origins, refuge, afflictions, vows and wisdom |
@@ -26,7 +43,7 @@ All print-ready resources are kept together in the [`downloads`](downloads/) fol
 
 Begin with the master edition's new **Beginning a Buddhist practice** section for the Four Noble Truths, Eightfold Path, Five Precepts, refuge and a simple daily routine. Then read the three practice companions alongside their matching official scrolls. Keep the illustrated figure guide and glossary nearby for quick reference.
 
-### English-Vietnamese Edition
+### September 2026 English-Vietnamese Edition
 
 [Download the complete English-Vietnamese master](downloads/04-master-english-vietnamese-edition.pdf). The 232-page edition contains 116 matched page pairs. Each English page is immediately followed by the corresponding Vietnamese page. Both languages retain the same complete content, illustrations and reference material, with translated diagrams and matching page-pair numbers.
 

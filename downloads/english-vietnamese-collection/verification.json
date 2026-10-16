@@ -1,0 +1,84 @@
+{
+  "edition": "October 2026 English–Vietnamese Edition",
+  "documents": [
+    {
+      "id": "master-guide",
+      "pages": 292,
+      "automated_checks": "pass",
+      "every_page_visual_review": "pass",
+      "files": {
+        "pdf": {
+          "name": "master-guide-english-vietnamese-edition.pdf",
+          "sha256": "33bf2acc747221652fedabca875eb605e70c334c5a59dc4918a8b81d98fb77a9",
+          "bytes": 8354071
+        },
+        "docx": {
+          "name": "master-guide-english-vietnamese-edition.docx",
+          "sha256": "adc3f849d7b932e3f2b59eb502a2b248b3afcb2068b4975a800ebde7522f086d",
+          "bytes": 56801304
+        }
+      }
+    },
+    {
+      "id": "companion-scroll-1",
+      "pages": 49,
+      "automated_checks": "pass",
+      "every_page_visual_review": "pass",
+      "files": {
+        "pdf": {
+          "name": "companion-scroll-1-english-vietnamese-edition.pdf",
+          "sha256": "3db1e4daee4f537441eaa2c979a6283792f7b2309785698309842990b62f5c75",
+          "bytes": 1526117
+        },
+        "docx": {
+          "name": "companion-scroll-1-english-vietnamese-edition.docx",
+          "sha256": "b524611f5f0dd5802c03e3630fdc4a24cdd8c46698a549d52198a7ce874dbe80",
+          "bytes": 3317610
+        }
+      }
+    },
+    {
+      "id": "companion-scroll-2",
+      "pages": 42,
+      "automated_checks": "pass",
+      "every_page_visual_review": "pass",
+      "files": {
+        "pdf": {
+          "name": "companion-scroll-2-english-vietnamese-edition.pdf",
+          "sha256": "dccf7673f6678864c05f05fc2731e08e6efec4a28e80d1b0ede83cc446c3cf92",
+          "bytes": 1309980
+        },
+        "docx": {
+          "name": "companion-scroll-2-english-vietnamese-edition.docx",
+          "sha256": "c910366ced66e3194d4654d15cc1a9934d444573774ad1f8084585fef0e949bf",
+          "bytes": 3107180
+        }
+      }
+    },
+    {
+      "id": "companion-scroll-3",
+      "pages": 42,
+      "automated_checks": "pass",
+      "every_page_visual_review": "pass",
+      "files": {
+        "pdf": {
+          "name": "companion-scroll-3-english-vietnamese-edition.pdf",
+          "sha256": "f3c5ae26ba9e8a8a9c7abf3765efdaf53977aae3ff74959584fd7f09d893ed55",
+          "bytes": 1157490
+        },
+        "docx": {
+          "name": "companion-scroll-3-english-vietnamese-edition.docx",
+          "sha256": "056bdc53a466e17dd1b0f932883e05ab19fdd4ca80d30f3708f8d7976fa353c0",
+          "bytes": 2840138
+        }
+      }
+    }
+  ],
+  "total_reviewed_pages": 425,
+  "language_colours": {
+    "English": "#174F4B",
+    "Vietnamese": "#7B4B2A"
+  },
+  "verification": "All normalised bilingual body blocks and table rows checked against the editable Word and selectable PDF text; every rendered page visually reviewed. Contents links and PDF bookmarks checked.",
+  "translation_review": "Editorial and source checks with AI assistance; no monastic review or endorsement claimed."
+}
