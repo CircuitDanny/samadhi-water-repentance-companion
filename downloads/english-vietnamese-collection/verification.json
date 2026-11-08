@@ -1,84 +1,99 @@
 {
-  "edition": "October 2026 English–Vietnamese Edition",
+  "edition": "November 2026 English–Vietnamese Edition",
   "documents": [
     {
       "id": "master-guide",
-      "pages": 292,
+      "pages": 295,
       "automated_checks": "pass",
       "every_page_visual_review": "pass",
       "files": {
         "pdf": {
           "name": "master-guide-english-vietnamese-edition.pdf",
-          "sha256": "33bf2acc747221652fedabca875eb605e70c334c5a59dc4918a8b81d98fb77a9",
-          "bytes": 8354071
+          "sha256": "11050c5f8017eefb0b4b9e1c0d3854b6b4712e065473d2fafac39e6d023bfb8c",
+          "bytes": 8631043
         },
         "docx": {
           "name": "master-guide-english-vietnamese-edition.docx",
-          "sha256": "adc3f849d7b932e3f2b59eb502a2b248b3afcb2068b4975a800ebde7522f086d",
-          "bytes": 56801304
+          "sha256": "ca4631892767faa672642f17750d46964035c91749bc89d08ce82481ee5e24b4",
+          "bytes": 57453364
         }
       }
     },
     {
       "id": "companion-scroll-1",
-      "pages": 49,
+      "pages": 52,
       "automated_checks": "pass",
       "every_page_visual_review": "pass",
       "files": {
         "pdf": {
           "name": "companion-scroll-1-english-vietnamese-edition.pdf",
-          "sha256": "3db1e4daee4f537441eaa2c979a6283792f7b2309785698309842990b62f5c75",
-          "bytes": 1526117
+          "sha256": "13ee68cef88415296e5b7fb5448cdd5a12b517e648479fec74aea5bb9f815d67",
+          "bytes": 1885996
         },
         "docx": {
           "name": "companion-scroll-1-english-vietnamese-edition.docx",
-          "sha256": "b524611f5f0dd5802c03e3630fdc4a24cdd8c46698a549d52198a7ce874dbe80",
-          "bytes": 3317610
+          "sha256": "6170065cf4f5a5038c5661afff164944058e0172b845fff671459a02813061dc",
+          "bytes": 3739953
         }
       }
     },
     {
       "id": "companion-scroll-2",
-      "pages": 42,
+      "pages": 44,
       "automated_checks": "pass",
       "every_page_visual_review": "pass",
       "files": {
         "pdf": {
           "name": "companion-scroll-2-english-vietnamese-edition.pdf",
-          "sha256": "dccf7673f6678864c05f05fc2731e08e6efec4a28e80d1b0ede83cc446c3cf92",
-          "bytes": 1309980
+          "sha256": "df54a6906d52f104ad9e503a680f83ce9e5c9487848e5f22637a91b30be8a18b",
+          "bytes": 1651536
         },
         "docx": {
           "name": "companion-scroll-2-english-vietnamese-edition.docx",
-          "sha256": "c910366ced66e3194d4654d15cc1a9934d444573774ad1f8084585fef0e949bf",
-          "bytes": 3107180
+          "sha256": "55da04c1124f693bcaecc874fd8cea9177e30c7f464bc6572753766d5c5dafb6",
+          "bytes": 3528573
         }
       }
     },
     {
       "id": "companion-scroll-3",
-      "pages": 42,
+      "pages": 44,
       "automated_checks": "pass",
       "every_page_visual_review": "pass",
       "files": {
         "pdf": {
           "name": "companion-scroll-3-english-vietnamese-edition.pdf",
-          "sha256": "f3c5ae26ba9e8a8a9c7abf3765efdaf53977aae3ff74959584fd7f09d893ed55",
-          "bytes": 1157490
+          "sha256": "0825088444f9c3bd0fd4fd00bf522e79a287a483c17e2e1373cc178b4b9e846b",
+          "bytes": 1783695
         },
         "docx": {
           "name": "companion-scroll-3-english-vietnamese-edition.docx",
-          "sha256": "056bdc53a466e17dd1b0f932883e05ab19fdd4ca80d30f3708f8d7976fa353c0",
-          "bytes": 2840138
+          "sha256": "1588b68c9a2366a96506fb3714a2e5779e019021ee7e588e2219852d09bb0bc8",
+          "bytes": 5308538
         }
       }
     }
   ],
-  "total_reviewed_pages": 425,
+  "total_reviewed_pages": 435,
   "language_colours": {
-    "English": "#174F4B",
-    "Vietnamese": "#7B4B2A"
+    "English body": "#263B37",
+    "English headings": "#174F4B",
+    "Vietnamese": "#7B4B2A",
+    "Vietnamese panel": "#F8F0E3"
   },
-  "verification": "All normalised bilingual body blocks and table rows checked against the editable Word and selectable PDF text; every rendered page visually reviewed. Contents links and PDF bookmarks checked.",
+  "language_separation": "Each English block is explicitly labelled ENGLISH; its Vietnamese translation follows beneath, labelled TIẾNG VIỆT, with a shaded panel and divider.",
+  "verification": "Ordered bilingual body blocks and table rows checked against editable Word and selectable PDF text. Every final page visually reviewed, with unchanged page PNG hashes reused after narrow corrections. Contents links, PDF bookmarks, font glyphs and separately rendered Word/PDF text and pagination checked. All 84 recorded automated checks for these four books passed.",
+  "reference_corrections": [
+    {
+      "pair_id": "C3.0047",
+      "source_pdf_pages": "14–20",
+      "note": "Includes closing invocations on PDF page 20 before the next section starts."
+    },
+    {
+      "pair_id": "C3.0065",
+      "source_pdf_pages": "20–24",
+      "note": "Includes the closing repentance passage on PDF page 24 before the next section starts."
+    }
+  ],
   "translation_review": "Editorial and source checks with AI assistance; no monastic review or endorsement claimed."
 }

@@ -1310,7 +1310,7 @@ Respect does not require concealing misconduct by a teacher or institution. Prot
 
 ## 4. Remorse, Shame and Everyday Conduct
 
-**Source pages 14-19**
+**Source pages 14-20**
 
 ### What is happening?
 
@@ -1347,7 +1347,7 @@ Translate an inherited virtue into safe, ethical conduct. Filial care can mean g
 
 ## 5. Resultative Obstructions and Impermanence
 
-**Source pages 20-23**
+**Source pages 20-24**
 
 ### What is happening?
 

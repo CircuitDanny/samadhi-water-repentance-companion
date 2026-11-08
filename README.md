@@ -4,7 +4,7 @@
 
 A practical, illustrated companion to all three scrolls of Fo Guang Shan Hsi Lai Temple's *Liturgy of the Samādhi Water Repentance of Kindness and Compassion*, available in English and an English-Vietnamese master edition.
 
-The collection explains what each major section is doing, why it is chanted, which Buddhist ideas it assumes and how its Buddhas and bodhisattvas relate to the practice. The September 2026 expansion adds closer reading notes, everyday examples and fuller figure profiles while preserving the established artwork and visual style.
+The collection explains what each major section is doing, why it is chanted, which Buddhist ideas it assumes and how its Buddhas and bodhisattvas relate to the practice. The November 2026 bilingual redesign restores the cream, teal and gold theme, separates the languages clearly and adds practical study aids alongside the existing reading notes and illustrated figure profiles.
 
 **Prepared by Daniel Franjkovic**  
 <daniel.franjkovic@outlook.com.au>
@@ -13,18 +13,20 @@ The collection explains what each major section is doing, why it is chanted, whi
 
 All print-ready resources are kept together in the [`downloads`](downloads/) folder.
 
-### October 2026 English–Vietnamese Edition
+### November 2026 English–Vietnamese Edition
 
-The expanded collection places each short English passage immediately above its corresponding Vietnamese passage. English uses deep teal and Vietnamese uses warm bronze, with the companion's cream background, gold accents and illustrated theme. These books include closer reading notes, clearly labelled reflections and everyday applications, matching source-section identifiers, new learning diagrams and editable Word versions.
+Each short English passage is labelled **ENGLISH** and printed in dark green (#263B37). Its corresponding Vietnamese passage follows immediately, labelled **TIẾNG VIỆT**, in warm bronze (#7B4B2A) inside a lightly shaded cream block (#F8F0E3). The restored cream, teal and gold theme retains the illustrations and makes each language clear through labels as well as colour. The books include closer reading notes, clearly labelled reflections and optional everyday applications, matching source-section identifiers and editable Word versions.
 
 | Resource | Pages | PDF | Editable Word |
 |---|---:|---|---|
-| Complete master guide | 292 | [Download PDF](downloads/english-vietnamese-collection/master-guide-english-vietnamese-edition.pdf) | [Download DOCX](downloads/english-vietnamese-collection/master-guide-english-vietnamese-edition.docx) |
-| Companion to Scroll One | 49 | [Download PDF](downloads/english-vietnamese-collection/companion-scroll-1-english-vietnamese-edition.pdf) | [Download DOCX](downloads/english-vietnamese-collection/companion-scroll-1-english-vietnamese-edition.docx) |
-| Companion to Scroll Two | 42 | [Download PDF](downloads/english-vietnamese-collection/companion-scroll-2-english-vietnamese-edition.pdf) | [Download DOCX](downloads/english-vietnamese-collection/companion-scroll-2-english-vietnamese-edition.docx) |
-| Companion to Scroll Three | 42 | [Download PDF](downloads/english-vietnamese-collection/companion-scroll-3-english-vietnamese-edition.pdf) | [Download DOCX](downloads/english-vietnamese-collection/companion-scroll-3-english-vietnamese-edition.docx) |
+| Complete master guide | 295 | [Download PDF](downloads/english-vietnamese-collection/master-guide-english-vietnamese-edition.pdf) | [Download DOCX](downloads/english-vietnamese-collection/master-guide-english-vietnamese-edition.docx) |
+| Companion to Scroll One | 52 | [Download PDF](downloads/english-vietnamese-collection/companion-scroll-1-english-vietnamese-edition.pdf) | [Download DOCX](downloads/english-vietnamese-collection/companion-scroll-1-english-vietnamese-edition.docx) |
+| Companion to Scroll Two | 44 | [Download PDF](downloads/english-vietnamese-collection/companion-scroll-2-english-vietnamese-edition.pdf) | [Download DOCX](downloads/english-vietnamese-collection/companion-scroll-2-english-vietnamese-edition.docx) |
+| Companion to Scroll Three | 44 | [Download PDF](downloads/english-vietnamese-collection/companion-scroll-3-english-vietnamese-edition.pdf) | [Download DOCX](downloads/english-vietnamese-collection/companion-scroll-3-english-vietnamese-edition.docx) |
 
 The master retains the illustrated Buddhas and bodhisattvas profiles, pronunciation material, core practice guidance and all 389 glossary entries. It also explains how to distinguish scripture, traditional explanation and optional reflection. Consequential source ambiguities and name differences are documented separately from the liturgy.
+
+Three new bilingual practice flows cover responding to harm, pausing before speaking, and caring for suffering with dedication. Each standalone companion places its flow and an illustrated figure cue near the start. A compact beginner glossary, reading guidance and reference links appear near the end, before the editorial notes, for quick consultation. The master retains the same study aids in the corresponding companion sections. These are optional study applications, distinct from the chanting text.
 
 New Vietnamese commentary uses respectful standard spelling and Buddhist vocabulary familiar to Southern readers. New translation and editorial work was prepared with AI assistance and checked against the supplied sources. This is an independent educational collection; it does not claim monastic review or official temple approval. [Edition and printing notes](downloads/english-vietnamese-collection/README.md).
 
@@ -89,11 +91,11 @@ The Vietnamese uses standard spelling and Buddhist vocabulary familiar to Southe
 - diagrams for the ritual sequence and difficult doctrines;
 - a visual map of the ten directions and a concise figure-role chart;
 - careful treatment of uncertain history and compressed ritual terms;
-- a complete Vietnamese translation in the bilingual master, with matching page pairs and translated diagrams.
+- a complete Vietnamese translation in the current bilingual master, with labelled English passages followed by shaded Vietnamese blocks and bilingual diagrams; the earlier September edition uses matching page pairs.
 
 ## Editing and rebuilding
 
-The component Markdown files generate the six English PDFs and combined master Markdown. The bilingual builder measures matching English and Vietnamese blocks together before choosing page breaks, so translation cannot drift to a different page pair. See [BUILDING.md](BUILDING.md) for commands, font requirements and verification steps.
+The component Markdown files generate the six earlier English PDFs and combined master Markdown. The November collection uses corresponding English and Vietnamese blocks on each page. The earlier September bilingual builder places matching English and Vietnamese content on consecutive page pairs. See [BUILDING.md](BUILDING.md) for the repository's build commands, font requirements and verification steps.
 
 The [scroll revision evidence](source-notes/SCROLL_REVISION_EVIDENCE.md) and [figure revision evidence](source-notes/REFERENCE_REVISION_EVIDENCE.md) record source checks and editorial decisions. The original liturgies remain the authority for the text being chanted.
 

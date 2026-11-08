@@ -114,7 +114,7 @@ Tôn trọng không đòi hỏi che giấu hành vi sai trái của một vị t
 
 ## 4. Hổ thẹn và hành vi đời thường
 
-**Trang nguồn 14-19**
+**Trang nguồn 14-20**
 
 ### Điều gì đang diễn ra?
 
@@ -151,7 +151,7 @@ Hãy chuyển một đức hạnh được thừa hưởng thành hành vi an to
 
 ## 5. Quả báo chướng và vô thường
 
-**Trang nguồn 20-23**
+**Trang nguồn 20-24**
 
 ### Điều gì đang diễn ra?
 
